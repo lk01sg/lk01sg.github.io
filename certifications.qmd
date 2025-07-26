@@ -1,0 +1,13 @@
+---
+title: "Certifications"
+---
+
+## 2022
+- Sertifikasi A
+- Sertifikasi B
+
+## 2021
+- Sertifikasi C
+
+## 2020
+- Sertifikasi D
