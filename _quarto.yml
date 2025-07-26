@@ -20,3 +20,5 @@ format:
     css: styles.css
     page-meta:
       robots: "noindex, nofollow"
+    toc: true
+    toc-location: right
