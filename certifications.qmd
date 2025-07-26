@@ -3,8 +3,20 @@ title: "Certifications"
 ---
 
 ## 2022
-- Sertifikasi A
-- Sertifikasi B
+### Course
+Introduction to System Biology. Held by Icahn School of Medicine at Mount Sinai. Taken on Coursera. Issued March 2022. [see credential](https://drive.google.com/file/d/1h9KdCVG0f6Odp_siTiyFCD4e7BACk0vW)
+
+### Workshop
+n/a
+
+### Module
+n/a
+
+### Symposium
+n/a
+
+### Seminar
+The role of Artificial Intelligence in Precision/Personalized Medicine. Held by Artificial Intelligence Center ITB. Taken on Zoom. Issued August 2022. [see credential](https://drive.google.com/file/d/1kikqAgtJ5vvmr-cPlbPqDlumDpl0d2al)
 
 ## 2021
 ### Course
