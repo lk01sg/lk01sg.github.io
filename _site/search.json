@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Hi, I’m Linda K. Singagerda (aka likas).\nI’m a pharmacist with a master’s degree in Clinical Pharmacology and Toxicology from ITB. I’m passionate about combining life sciences, data, and engineering to tackle real-world health challenges. Throughout my experiences, I’ve contributed to enhancing medical data quality at an Indonesian health-tech startup, provided essential pharmacy services to my community, and taught pharmacology and chemical engineering, mentoring aspiring scientific professionals.\nMy current interests include systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—areas I believe are crucial for advancing drug discovery and life sciences. I’m dedicated to creating solutions that make science accessible, practical, and impactful.\nI’m actively seeking collaborations on innovative projects related to health technology, educational platforms, and cutting-edge research. Let’s connect and build something meaningful together."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Home",
-    "section": "",
-    "text": "Hi, I’m Linda K. Singagerda (aka likas).\nI’m a pharmacist with a master’s degree in Clinical Pharmacology and Toxicology from ITB. I’m passionate about combining life sciences, data, and engineering to tackle real-world health challenges. Throughout my experiences, I’ve contributed to enhancing medical data quality at an Indonesian health-tech startup, provided essential pharmacy services to my community, and taught pharmacology and chemical engineering, mentoring aspiring scientific professionals.\nMy current interests include systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—areas I believe are crucial for advancing drug discovery and life sciences. I’m dedicated to creating solutions that make science accessible, practical, and impactful.\nI’m actively seeking collaborations on innovative projects related to health technology, educational platforms, and cutting-edge research. Let’s connect and build something meaningful together."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Home",
-    "section": "Contact",
-    "text": "Contact\nEmail: lksingagerda@outlook.co.id"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "media.html",
     "href": "media.html",
     "title": "Media",
@@ -89,5 +61,26 @@
     "title": "Certifications",
     "section": "2020",
     "text": "2020\n\nSertifikasi D"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Linda K. Singagerda (aka likas).\nI’m a pharmacist with a master’s degree in Clinical Pharmacology and Toxicology from ITB. I’m passionate about combining life sciences, data, and engineering to tackle real-world health challenges. Throughout my experiences, I’ve contributed to enhancing medical data quality at an Indonesian health-tech startup, provided essential pharmacy services to my community, and taught pharmacology and chemical engineering, mentoring aspiring scientific professionals.\nMy current interests include systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—areas I believe are crucial for advancing drug discovery and life sciences. I’m dedicated to creating solutions that make science accessible, practical, and impactful.\nI’m actively seeking collaborations on innovative projects related to health technology, educational platforms, and cutting-edge research. Let’s connect and build something meaningful together."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Linda K. Singagerda (aka likas).\nI’m a pharmacist with a master’s degree in Clinical Pharmacology and Toxicology from ITB. I’m passionate about combining life sciences, data, and engineering to tackle real-world health challenges. Throughout my experiences, I’ve contributed to enhancing medical data quality at an Indonesian health-tech startup, provided essential pharmacy services to my community, and taught pharmacology and chemical engineering, mentoring aspiring scientific professionals.\nMy current interests include systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—areas I believe are crucial for advancing drug discovery and life sciences. I’m dedicated to creating solutions that make science accessible, practical, and impactful.\nI’m actively seeking collaborations on innovative projects related to health technology, educational platforms, and cutting-edge research. Let’s connect and build something meaningful together."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "Contact",
+    "text": "Contact\nEmail: lksingagerda@outlook.co.id"
   }
 ]
