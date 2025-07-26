@@ -146,16 +146,16 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="uppeti" class="level2">
 <h2 class="anchored" data-anchor-id="uppeti">Uppeti</h2>
-<p>Puppik Penyawo Batin <a href="https://uppeti.substack.com">Uppeti</a></p>
+<p>Puppik Penyawo Batin <a href="https://uppeti.substack.com">Uppeti</a>.</p>
 </section>
 <section id="syntesamateria" class="level2">
-<h2 class="anchored" data-anchor-id="syntesamateria">Syntesamateria</h2>
-<p>From Life Sciences to Drug Innovation <a href="https://syntesamateria.substack.com">Syntesamateria</a></p>
+<h2 class="anchored" data-anchor-id="syntesamateria">SyntesaMateria</h2>
+<p>From Life Sciences to Drug Innovation, <a href="https://syntesamateria.substack.com">Syntesamateria</a>.</p>
 </section>
 <section id="talks" class="level2">
 <h2 class="anchored" data-anchor-id="talks">Talks</h2>
 <ul>
-<li><em>Akan ditambahkan nanti</em></li>
+<li><em>Coming soon.</em></li>
 </ul>
 
 
@@ -234,7 +234,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/lk01sg\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
