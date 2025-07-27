@@ -2,13 +2,6 @@
 title: "Media"
 ---
 
-## Social Links
-
-<a href="https://x.com/lk01sg" target="_blank" style="padding:10px 15px; background:#333; color:white; border-radius:5px; text-decoration:none;">X</a>
-<a href="https://bsky.app/profile/lk01sg.bsky.social" target="_blank" style="padding:10px 15px; background:#333; color:white; border-radius:5px; text-decoration:none;">Bluesky</a>
-<a href="https://www.instagram.com/lk01sg" target="_blank" style="padding:10px 15px; background:#333; color:white; border-radius:5px; text-decoration:none;">Instagram</a>
-<a href="https://github.com/lk01sg" target="_blank" style="padding:10px 15px; background:#333; color:white; border-radius:5px; text-decoration:none;">GitHub</a>
-
 ## Uppeti
 Puppik Penyawo Batin, [Uppeti](https://uppeti.substack.com).
 
