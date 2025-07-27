@@ -1,5 +1,7 @@
 ---
 title: "Certifications"
+meta:
+  robots: "noindex, nofollow"
 ---
 
 ## 2022
