@@ -12,6 +12,13 @@ website:
         href: media.qmd
       - text: Certifications
         href: certifications.qmd
+    right:
+      - icon: twitter-x
+        href: https://x.com/lk01sg
+      - icon: instagram
+        href: https://instagram.com/lk01sg
+      - icon: github
+        href: https://github.com/lk01sg
   page-footer: "© 2025 lk01sg"
 
 format:

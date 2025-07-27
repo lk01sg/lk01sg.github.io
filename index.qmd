@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 ---
 
 ## About
@@ -15,11 +15,3 @@ I'm actively seeking collaborations on innovative projects related to health tec
 ## Contact
 
 Email: <lksingagerda@outlook.co.id>
-
-## Social Links
-
-<div class="social-icons">
-  <a href="https://x.com/lk01sg" target="_blank"><i class="bi bi-twitter-x"></i></a>
-  <a href="https://www.instagram.com/lk01sg" target="_blank"><i class="bi bi-instagram"></i></a>
-  <a href="https://github.com/lk01sg" target="_blank"><i class="bi bi-github"></i></a>
-</div>
