@@ -28,4 +28,4 @@ format:
     toc: true
     toc-location: right
     includes:
-      in-header: meta-robots.html
+      in-header: .meta-robots.html
