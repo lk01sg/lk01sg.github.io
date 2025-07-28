@@ -27,5 +27,5 @@ format:
     css: styles.css
     toc: true
     toc-location: right
-    meta:
-      robots: "noindex, nofollow"
+    includes:
+      in-header: meta-robots.html
