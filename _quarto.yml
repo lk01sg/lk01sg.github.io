@@ -27,5 +27,3 @@ format:
     css: styles.css
     toc: true
     toc-location: right
-    includes:
-      in-header: meta-robots.html
