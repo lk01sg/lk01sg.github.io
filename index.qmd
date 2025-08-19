@@ -12,6 +12,12 @@ My current interests include systems biology, PK/PD modeling, computational drug
 
 I'm actively seeking collaborations on innovative projects related to health technology, educational platforms, and cutting-edge research. Let's connect and build something meaningful together.
 
+### 📚 Publications & Platforms
+
+I also run SyntesaMateria and UPPETI, two independent digital media platforms where I publish curated scientific content, exclusive articles, and educational materials. These platforms are part of my work in making science accessible and impactful for a wider audience.  
+Together, they serve as my main digital outlets for publishing and educational activities.  
+More details about these platforms can be found [here](https://lk01sg.github.io/media.html).
+
 ## Contact
 
 Email: <lksingagerda@outlook.co.id>
