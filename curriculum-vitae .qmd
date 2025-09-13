@@ -3,8 +3,6 @@ title: "Curriculum Vitae"
 format: html
 ---
 
-# Curriculum Vitae
-
 ## Profile
 Pharmacology graduate (M.Sc.) with experience in teaching, research, and health-tech startup.  
 Research interests include **systems biology, molecular pharmacology, protein dynamics, and network-based drug design**.  

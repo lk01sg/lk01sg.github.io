@@ -3,8 +3,6 @@ title: "Publications"
 format: html
 ---
 
-# Publications
-
 This page lists my publications, selected works, and projects.  
 (*More publications will be added as research progresses.*)
 

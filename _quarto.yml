@@ -8,10 +8,14 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: "PhD-Portfolio"
+        href: ../phd-portfolio/index.qmd
       - text: Media
         href: media.qmd
-      - text: Certifications
-        href: certifications.qmd
+      - text: "Blog"
+        href: ../blog/index.qmd
     right:
       - icon: twitter-x
         href: https://x.com/lk01sg
