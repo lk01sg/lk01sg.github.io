@@ -16,8 +16,8 @@ Collaboration excites me, especially on projects at the intersection of health t
 
 ## Portfolio
 - [Curriculum Vitae](cv.qmd) — brief overview (*full CV available upon request*).  
-- [Publications](publications.qmd) — current works and ongoing research.  
-- [Certifications](certifications.qmd) — completed certifications & training.
+- [Publications](publications.qmd) — selected works and ongoing research.  
+- [Certifications](certifications.qmd) — training and professional credentials.
 
 ## 📚 On Writing
 
