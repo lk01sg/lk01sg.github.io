@@ -15,26 +15,9 @@ Alongside my scientific work, I’m also an **Independent Creator & Digital Stra
 Collaboration excites me, especially on projects at the intersection of health technology, educational platforms, and cutting-edge research. If you’re working on something in these areas, I’d be glad to connect.
 
 ## Portfolio
-
-::: { .grid grid-columns=3 }
-
-::: {.card}
-[**Curriculum Vitae**](cv.qmd)  
-A brief overview of my education, experience, and research interests.  
-*Full CV available upon request.*
-:::
-
-::: {.card}
-[**Publications**](publications.qmd)  
-List of publications, presentations, and works in progress.
-:::
-
-::: {.card}
-[**Certifications**](certifications.qmd)  
-Completed certifications and training programs.  
-:::
-
-:::
+- [Curriculum Vitae](cv.qmd) — brief overview (*full CV available upon request*).  
+- [Publications](publications.qmd) — current works and ongoing research.  
+- [Certifications](certifications.qmd) — completed certifications & training.
 
 ### 📚 Publications & Platforms
 
