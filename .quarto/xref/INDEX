@@ -10,5 +10,11 @@
   },
   "media.qmd": {
     "media.html": "f0eef316"
+  },
+  "cv.qmd": {
+    "cv.html": "e710f965"
+  },
+  "publications.qmd": {
+    "publications.html": "ed5a775a"
   }
 }

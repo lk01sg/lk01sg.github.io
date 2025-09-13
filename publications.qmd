@@ -1,0 +1,31 @@
+---
+title: "Publications"
+format: html
+---
+
+# Publications
+
+This page lists my publications, selected works, and projects.  
+(*More publications will be added as research progresses.*)
+
+---
+
+## Journal Articles
+- [Year] **Title of Publication**  
+  *Authors...*  
+  Journal / Conference Name. [DOI or link if available]
+
+---
+
+## Books & Book Chapters
+- [Upcoming] Planned book on **[topic: e.g., science & policy, computational drug discovery]**
+
+---
+
+## Conference Presentations
+- [Year] **Presentation Title** – Conference Name, Location.
+
+---
+
+## In Progress
+- Manuscript on **[topic, e.g., network-based drug design]** (in preparation).

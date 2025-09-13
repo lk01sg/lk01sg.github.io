@@ -14,6 +14,28 @@ Alongside my scientific work, I’m also an **Independent Creator & Digital Stra
 
 Collaboration excites me, especially on projects at the intersection of health technology, educational platforms, and cutting-edge research. If you’re working on something in these areas, I’d be glad to connect.
 
+## Portfolio
+
+::: { .grid grid-columns=3 }
+
+::: {.card}
+[**Curriculum Vitae**](cv.qmd)  
+A brief overview of my education, experience, and research interests.  
+*Full CV available upon request.*
+:::
+
+::: {.card}
+[**Publications**](publications.qmd)  
+List of publications, presentations, and works in progress.
+:::
+
+::: {.card}
+[**Certifications**](certifications.qmd)  
+Completed certifications and training programs.  
+:::
+
+:::
+
 ### 📚 Publications & Platforms
 
 I run SyntesaMateria and UPPETI, two independent digital media platforms. **SyntesaMateria** focuses on science and technology, publishing curated content, exclusive articles, and educational materials for students, researchers, and a general audience. **UPPETI** serves as a more personal and creative outlet, where I explore philosophy, art, and reflective writing. Together, they represent complementary sides of my publishing and creative practice. More details about these platforms can be found [here](https://lk01sg.github.io/media.html).

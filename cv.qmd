@@ -1,0 +1,40 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+# Curriculum Vitae
+
+## Profile
+Pharmacology graduate (M.Sc.) with experience in teaching, research, and health-tech startup.  
+Research interests include **systems biology, molecular pharmacology, protein dynamics, and network-based drug design**.  
+
+*For the full CV, please contact me via email.*
+
+---
+
+## Education
+- **M.Sc. in Pharmacology** – [University Name], [Year]
+- **B.Pharm.** – [University Name], [Year]
+
+---
+
+## Experience
+- **Lecturer** – [University / Department], [Year-Year]  
+  Courses taught: [e.g., Chemical Engineering Program, Pharmacology basics].
+- **Research & Development** – Health-tech startup, [Year-Year]  
+  Focus on [short description, e.g., digital health solutions, clinical data, etc.].
+
+---
+
+## Highlights
+- Research thesis in **immunology** with focus on [specifics, e.g., immune modulation in drug response].
+- Developing interests in **in silico drug discovery**, AlphaFold applications, and **quantitative pharmacology**.
+- Actively preparing for PhD program applications in molecular biology, systems biology, and network pharmacology.
+
+---
+
+## Contact
+- **Email:** [your email here]  
+- **Website:** [your site here]  
+- **GitHub:** [link]  
