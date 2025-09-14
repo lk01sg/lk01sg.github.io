@@ -11,11 +11,11 @@ website:
       - text: Publications
         href: publications.qmd
       - text: "PhD-Portfolio"
-        href: ../phd-portfolio/index.qmd
+        href: /phd-portfolio/
       - text: Media
         href: media.qmd
       - text: "Blog"
-        href: ../blog/index.qmd
+        href: /blog/
     right:
       - icon: twitter-x
         href: https://x.com/lk01sg
