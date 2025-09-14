@@ -10,11 +10,11 @@ website:
         href: index.qmd
       - text: Publications
         href: publications.qmd
-      - text: "PhD-Portfolio"
+      - text: PhD-Portfolio
         href: /phd-portfolio/
       - text: Media
         href: media.qmd
-      - text: "Blog"
+      - text: Blog
         href: /blog/
     right:
       - icon: twitter-x
