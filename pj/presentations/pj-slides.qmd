@@ -1,0 +1,515 @@
+---
+title: "Penggunaan JabRef"
+subtitle: "Reference Manager untuk LaTeX"
+author: "Linda K. Sg."
+date: today
+format:
+  revealjs:
+    theme: default
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    width: 1920
+    height: 1080
+    preview-links: auto
+    footer: "SynteasaMateria | Penggunaan JabRef"
+    logo: "images/logo-sm.png"
+execute:
+  enabled: false
+---
+
+# Daftar Isi
+
+::: {style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; font-size: 0.95em; margin-top: 30px;"}
+::: {style="background: #f5f5f5; padding: 18px; border-left: 4px solid #212121; border-radius: 5px;"}
+**1.** Kenapa JabRef?
+:::
+
+::: {style="background: #eeeeee; padding: 18px; border-left: 4px solid #424242; border-radius: 5px;"}
+**2.** Kenapa Bukan JabRef?
+:::
+
+::: {style="background: #e0e0e0; padding: 18px; border-left: 4px solid #616161; border-radius: 5px;"}
+**3.** Instalasi dan Konfigurasi Awal
+:::
+
+::: {style="background: #f5f5f5; padding: 18px; border-left: 4px solid #757575; border-radius: 5px;"}
+**4.** Membuat dan Mengatur Database Referensi
+:::
+
+::: {style="background: #eeeeee; padding: 18px; border-left: 4px solid #212121; border-radius: 5px;"}
+**5.** Copy Cara Kerja!
+:::
+
+::: {style="background: #e0e0e0; padding: 18px; border-left: 4px solid #424242; border-radius: 5px;"}
+**6.** Simpan dan Ekspor
+:::
+
+::: {style="background: #f5f5f5; padding: 18px; border-left: 4px solid #616161; border-radius: 5px;"}
+**7.** Tautan PDF atau File Lokal
+:::
+
+::: {style="background: #eeeeee; padding: 18px; border-left: 4px solid #757575; border-radius: 5px;"}
+**8.** Integrasi dengan LaTeX dan Overleaf
+:::
+
+::: {style="background: #e0e0e0; padding: 18px; border-left: 4px solid #212121; border-radius: 5px;"}
+**9.** Fitur Berguna Lainnya
+:::
+
+::: {style="background: #f5f5f5; padding: 18px; border-left: 4px solid #424242; border-radius: 5px;"}
+**10.** Penutup
+:::
+:::
+
+# 1. Kenapa JabRef?
+
+::: {.incremental}
+- Native untuk BibTeX/BibLaTeX.
+- Aplikasi open-source.
+- Platform: Windows/MacOS/Linux.
+- Sinkronisasi & Cloud: SQL/db lokal (non-cloud).
+- Word Processor Integration: Support LaTeX & bisa ke Word/LibreOffice.
+- Jika menggunakan R, masih cocok untuk digunakan bersama R Markdown.
+- **Banyak sumber metadata.**
+:::
+
+## Apa itu Metadata?
+
+Metadata adalah informasi tentang sumber referensi (data pendukung).
+
+. . .
+
+**Jenis metadata yang umum:**
+
+::: {style="margin-top: 20px;"}
+::: {style="background: #f5f5f5; padding: 15px; border-left: 4px solid #424242; border-radius: 5px; margin-bottom: 12px;"}
+**Descriptive metadata.**  
+Judul, penulis, tahun, jurnal, DOI, ISBN, abstrak, keywords
+:::
+
+::: {style="background: #eeeeee; padding: 15px; border-left: 4px solid #616161; border-radius: 5px; margin-bottom: 12px;"}
+**Administrative metadata.**  
+Info teknis seperti jenis file, ukuran, tanggal dibuat
+:::
+
+::: {style="background: #e0e0e0; padding: 15px; border-left: 4px solid #757575; border-radius: 5px;"}
+**Structural metadata.**  
+Cara data tersusun (tautan PDF, anotasi, struktur file)
+:::
+:::
+
+## Fungsi Metadata
+
+Metadata memungkinkan reference manager untuk:
+
+::: {style="margin-top: 20px;"}
+::: {style="background: #f5f5f5; padding: 15px; border-left: 4px solid #424242; border-radius: 5px; margin-bottom: 12px;"}
+**Mengelompokkan dan mencari referensi.**
+:::
+
+::: {style="background: #eeeeee; padding: 15px; border-left: 4px solid #616161; border-radius: 5px; margin-bottom: 12px;"}
+**Menyusun bibliografi otomatis.**
+:::
+
+::: {style="background: #e0e0e0; padding: 15px; border-left: 4px solid #757575; border-radius: 5px;"}
+**Integrasi dengan tools.**  
+LaTeX, Word, atau R Markdown
+:::
+:::
+
+## Keunggulan Metadata di JabRef
+
+Impor data dari 10+ sumber metadata:
+
+::: {style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; font-size: 0.85em; margin-top: 25px;"}
+::: {style="background: #f5f5f5; padding: 15px; text-align: center; border-radius: 5px;"}
+**DOI**  
+CrossRef, DataCite
+:::
+
+::: {style="background: #eeeeee; padding: 15px; text-align: center; border-radius: 5px;"}
+**Academic**  
+arXiv, PubMed, Scholar
+:::
+
+::: {style="background: #e0e0e0; padding: 15px; text-align: center; border-radius: 5px;"}
+**Library**  
+LoC, ISBNdb, GVK
+:::
+
+::: {style="background: #d5d5d5; padding: 15px; text-align: center; border-radius: 5px;"}
+**Publisher**  
+Springer, IEEE Xplore
+:::
+
+::: {style="background: #f5f5f5; padding: 15px; text-align: center; border-radius: 5px;"}
+**Medical**  
+Medline
+:::
+
+::: {style="background: #eeeeee; padding: 15px; text-align: center; border-radius: 5px;"}
+**Others**  
+CiteseerX, dll.
+:::
+:::
+
+## Keunggulan Metadata di JabRef (lanjutan)
+
+::: {.incremental}
+- Metadata memperkaya file `.bib`.
+- Kontrol penuh dan editing manual.
+- Cocok untuk pengguna tingkat lanjut.
+:::
+
+# 2. Kenapa Bukan JabRef?
+
+::: {.incremental}
+- Kurang intuitif UI.
+- Sinkronisasi manual.
+- PDF Annotation "terbatas" dibandingkan dengan kompetitornya.
+:::
+
+# 3. Instalasi dan Konfigurasi Awal
+
+::: {.incremental}
+- Download dari **jabref.org**, kemudian install di Windows/macOS/Linux.
+- Terdapat versi portable yang dapat digunakan langsung dari media penyimpanan seperti USB flash drive.
+:::
+
+# 4. Membuat dan Mengatur Database Referensi
+
+## Membuka atau Membuat File `.bib`
+
+Di JabRef, semua data referensi disimpan dalam satu file berformat `.bib`.
+
+::: {.incremental}
+- **Membuat pustaka baru:**  
+  Klik **File > New library** → Simpan dengan nama misalnya `referensi.bib`.
+- **Membuka file yang sudah ada:**  
+  Klik **File > Open library** → Pilih file `.bib` di komputermu.
+- 💡 Biasakan sering menyimpan perubahan lewat **File > Save** supaya datamu aman.
+:::
+
+## Menambahkan Entri Baru
+
+### Manual
+
+::: {.incremental}
+1. Klik **New entry** di toolbar atau pilih **Library > New entry**.
+2. Pilih jenis entri (Article, Book, Thesis, dll).
+3. Isi kolom di **Entry Editor**: Author(s), Title, Journal, Year, DOI, URL.
+:::
+
+## Menambahkan Entri Baru (lanjutan)
+
+### Otomatis dengan Identifier
+
+Mengambil metadata otomatis dari pengenal seperti DOI, ISBN, ArXiv ID, atau PubMed ID:
+
+::: {.incremental}
+1. Klik **New entry** di toolbar atau **Library > New entry**.
+2. Pilih **Fetch by Identifier**.
+3. Masukkan DOI / ISBN / arXiv ID atau ID lain.
+4. Klik **Generate** → metadata diisi otomatis.
+:::
+
+### Mengimpor File Referensi
+
+::: {.incremental}
+- Impor dari berbagai format: BibTeX, RIS, EndNote, Medline, MODS.
+- Klik **File > Import** atau seret file ke JabRef.
+- Impor dari reference manager lain (Zotero, Mendeley, Google Scholar) juga mudah jika sudah dalam format BibTeX/RIS.
+:::
+
+## Mengedit dan Memperbaiki Metadata
+
+Setelah entri ditambahkan:
+
+::: {.incremental}
+1. Double click entri yang diinginkan.
+2. Entry Editor akan muncul di panel bawah.
+3. **Lengkapi atau perbaiki: Author, Title, Journal, Year, DOI, URL.**
+4. Pastikan semua kolom penting terisi dengan benar.
+:::
+
+. . .
+
+💡 JabRef biasanya memberi label khusus pada kolom wajib yang belum lengkap.
+
+---
+
+### Author dengan Banyak Penulis
+
+Gunakan **"and"** untuk memisahkan antar penulis:
+
+```
+John Smith and Mary Johnson and Robert Lee
+```
+
+**Format penulisan nama:**
+
+::: {style="margin-top: 15px;"}
+- **First Last**: `John Smith`.
+- **Last, First**: `Smith, John`. (lebih disarankan)
+- **Last, First Middle**: `Smith, John Robert`.
+
+Contoh lengkap:
+```
+Smith, John and Johnson, Mary K. and Lee, Robert
+```
+:::
+
+---
+
+### Mempertahankan Huruf Kapital pada Title
+
+Gunakan **kurung kurawal `{}`** untuk melindungi kapitalisasi:
+
+::: {style="margin-top: 15px;"}
+❌ **Salah** (akan jadi lowercase di beberapa style):
+```
+Analysis of COVID-19 Spread in USA
+```
+
+✅ **Benar** (kapitalisasi terlindungi):
+```
+Analysis of {COVID-19} Spread in {USA}
+```
+
+atau untuk melindungi seluruh judul:
+```
+{Analysis of COVID-19 Spread in USA}
+```
+:::
+
+---
+
+### Mempertahankan Huruf Kapital pada Title (lanjutan)
+
+Kapan Menggunakan Kurung Kurawal?
+
+::: {style="margin-top: 20px;"}
+::: {style="background: #f5f5f5; padding: 15px; border-left: 4px solid #424242; border-radius: 5px; margin-bottom: 12px;"}
+**Akronim:** `{DNA}`, `{RNA}`, `{HTTP}`
+:::
+
+::: {style="background: #eeeeee; padding: 15px; border-left: 4px solid #616161; border-radius: 5px; margin-bottom: 12px;"}
+**Nama proper:** `{Indonesia}`, `{Python}`
+:::
+
+::: {style="background: #e0e0e0; padding: 15px; border-left: 4px solid #757575; border-radius: 5px; margin-bottom: 12px;"}
+**Istilah khusus:** `{LaTeX}`, `{BibTeX}`
+:::
+
+::: {style="background: #d5d5d5; padding: 15px; border-left: 4px solid #212121; border-radius: 5px;"}
+**Nama produk:** `{iPhone}`, `{GitHub}`
+:::
+:::
+
+# 5. Copy Cara Kerja!
+
+## Search dan Groups
+
+::: {.incremental}
+- **Search** untuk menemukan entri dengan cepat.
+- **Groups** untuk mengelompokkan entri berdasarkan topik atau tema:
+  - Klik menu **View > Groups**.
+  - Klik **Add Group** pada bagian bawah panel grup.
+  - Buat grup seperti "Review", "Final", "Disertasi".
+  - Tambahkan entri ke grup dengan *drag-and-drop*.
+  - Atur susunan grup dan sub-grup dengan *drag-and-drop*.
+:::
+
+## Keywords, Mark, dan Grade
+
+::: {.incremental}
+- **Keywords** untuk klasifikasi tambahan
+- **Mark** dan **Grade** untuk identifikasi status data
+:::
+
+---
+
+Cara mengaktifkan: **File > Preferences > Entry Table**
+
+### Entry Table yang Berguna
+
+::: {style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; font-size: 0.85em; margin-top: 20px;"}
+::: {style="background: #f5f5f5; padding: 15px; border-left: 4px solid #424242; border-radius: 5px;"}
+**Relevance**  
+Menandai entri yang berkaitan dengan proyek.
+:::
+
+::: {style="background: #eeeeee; padding: 15px; border-left: 4px solid #616161; border-radius: 5px;"}
+**Read status**  
+Skimmed (orange) atau Read (hijau).
+:::
+
+::: {style="background: #e0e0e0; padding: 15px; border-left: 4px solid #757575; border-radius: 5px;"}
+**Ranking**  
+Skor bintang 1-5 untuk kualitas entri.
+:::
+
+::: {style="background: #d5d5d5; padding: 15px; border-left: 4px solid #212121; border-radius: 5px;"}
+**Quality assured**  
+Metadata sudah diperbaiki/dicek.
+:::
+
+::: {style="background: #f5f5f5; padding: 15px; border-left: 4px solid #424242; border-radius: 5px;"}
+**Priority**  
+Tingkat prioritas untuk dibaca.
+:::
+:::
+
+## Citation Key Generator
+
+Mengatur format citation key otomatis:
+
+::: {.incremental}
+1. Ke menu **File > Preferences > Citation key generator**.
+2. Ubah Key Pattern pada kolom Default Pattern:
+   - `auth,year,_,entrytype`, atau
+   - `auth,year,keyword`
+3. Kemudian, save.
+:::
+
+## Time Stamp
+
+Merekam waktu pembuatan dan modifikasi entri:
+
+::: {style="margin-top: 20px;"}
+Contreng kedua opsi ini:
+
+::: {style="background: #f5f5f5; padding: 15px; border-left: 4px solid #424242; border-radius: 5px; margin-bottom: 12px;"}
+✓ Add timestamp to new entries (field "creationdate").
+:::
+
+::: {style="background: #eeeeee; padding: 15px; border-left: 4px solid #616161; border-radius: 5px;"}
+✓ Add timestamp to modified entries (field "modificationdate").
+:::
+:::
+
+## Expand First Names
+
+Mengubah inisial nama penulis menjadi nama lengkap:
+
+::: {.incremental}
+1. Buka entri yang ingin kamu edit, pastikan ada kolom **DOI**.
+2. Masuk ke tab **General**, klik **"Look up DOI"**.
+3. Klik **"Get BibTeX data from DOI"**.
+4. Ketika muncul pop-up "Merge Entries", pilih data yang ingin diperbarui.
+5. Merge ke entri yang sedang diedit.
+6. Nama penulis akan diperbarui menjadi nama lengkap.
+:::
+
+# 6. Simpan dan Ekspor
+
+## Menyimpan dan Mengekspor Data
+
+Setelah pustakamu rapi:
+
+::: {.incremental}
+- Simpan ke file `.bib` untuk digunakan di LaTeX.
+- Ekspor ke format lain seperti Endnote, HTML, CSV.
+:::
+
+. . .
+
+**Caranya:**
+
+::: {.incremental}
+1. Klik **File > Export**.
+2. Pilih format dan lokasi penyimpanan.
+:::
+
+. . .
+
+💡 Berguna untuk berbagi dengan rekan atau konversi ke format lain.
+
+# 7. Tautan PDF atau File Lokal
+
+## Mengelola File PDF
+
+JabRef mendukung penyimpanan dokumen:
+
+::: {.incremental}
+- Tambahkan file PDF ke entri.
+- Link ke file lokal di komputer.
+- Simpan PDF di folder terstruktur.
+- Sesuaikan atau cek link otomatis.
+- Rename file untuk konsistensi.
+:::
+
+. . .
+
+💡 Ideal untuk dokumentasi sumber PDF yang kamu baca.
+
+# 8. Integrasi dengan LaTeX dan Overleaf
+
+## Bekerja dengan LaTeX
+
+JabRef didesain untuk bekerja mulus dengan LaTeX:
+
+::: {.incremental}
+- Tambahkan pustaka di dokumen LaTeX via `\bibliography{referensi}`.
+- Pilih gaya kutipan (IEEEtran, APA, dll).
+- Sinkronkan file `.bib` ke Overleaf via Git atau layanan cloud.
+:::
+
+. . .
+
+💡 Setiap kali update file `.bib`, dokumen LaTeX otomatis bisa mengutip data terbaru.
+
+# 9. Fitur Berguna Lainnya
+
+## Fitur Tambahan
+
+::: {style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; font-size: 0.9em; margin-top: 25px;"}
+::: {style="background: #f5f5f5; padding: 18px; border-left: 4px solid #424242; border-radius: 5px;"}
+**Integrity Check**  
+Mendeteksi error di file `.bib`.
+:::
+
+::: {style="background: #eeeeee; padding: 18px; border-left: 4px solid #616161; border-radius: 5px;"}
+**Entry Preview**  
+Melihat format kutipan langsung.
+:::
+
+::: {style="background: #e0e0e0; padding: 18px; border-left: 4px solid #757575; border-radius: 5px;"}
+**Fetching from Online Databases**  
+Ambil metadata dari CrossRef, ArXiv, Medline.
+:::
+
+::: {style="background: #d5d5d5; padding: 18px; border-left: 4px solid #212121; border-radius: 5px;"}
+**Custom Export Filter**  
+Atur format output sesuai kebutuhan.
+:::
+:::
+
+# 10. Penutup
+
+## Terima Kasih!
+
+::: {style="margin-top: 40px; font-size: 1.1em;"}
+Untuk contoh file template `.bib` dan struktur folder riset, kunjungi **Gumroad**.
+:::
+
+. . .
+
+::: {style="margin-top: 30px; background: #f5f5f5; padding: 20px; border-left: 4px solid #424242; border-radius: 5px;"}
+**Gumroad:**  
+🖇️[Penggunaan JabRef - Course](https://lk01sg.gumroad.com/l/pj)
+:::
+
+. . .
+
+::: {style="margin-top: 30px; background: #f5f5f5; padding: 20px; border-left: 4px solid #424242; border-radius: 5px;"}
+**Referensi:**  
+🖇️[JabRef Getting Started Docs](https://docs.jabref.org/getting-started)
+:::
+
+. . .
+
+::: {style="margin-top: 30px; text-align: center; font-size: 0.9em; color: #666;"}
+**Pertanyaan?**
+:::
