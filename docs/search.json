@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "lk01sg",
     "section": "",
-    "text": "Hi, I’m Linda K. Sg.\nWith a background in pharmacy and a master’s degree in Pharmacology and Toxicology from ITB, my work has always revolved around bridging life sciences, data, and engineering to address real-world health challenges. I’ve contributed to improving medical data quality at an Indonesian health-tech startup, provided pharmacy services to my local community, and taught pharmacology and chemical engineering—mentoring aspiring scientific professionals along the way.\nMy current interests span systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—fields I see as pivotal for advancing drug discovery and the life sciences. The goal is to translate complex knowledge into solutions that are accessible, practical, and impactful.\nAlongside my scientific work, I’m also an Independent Creator & Digital Strategist. I design and manage digital ecosystems where ideas can move across platforms—through writing, media, and digital products—connecting research, storytelling, and community building.\nCollaboration excites me, especially on projects at the intersection of health technology, educational platforms, and cutting-edge research. If you’re working on something in these areas, I’d be glad to connect."
+    "text": "Hi, I’m Linda K. Sg.\n\nWith a background in pharmacy and a master’s degree in Pharmacology and Toxicology from ITB, my work has always revolved around bridging life sciences, data, and engineering to address real-world health challenges. I’ve contributed to improving medical data quality at an Indonesian health-tech startup, provided pharmacy services to my local community, and taught pharmacology and chemical engineering—mentoring aspiring scientific professionals along the way.\nMy current interests span systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—fields I see as pivotal for advancing drug discovery and the life sciences. The goal is to translate complex knowledge into solutions that are accessible, practical, and impactful.\nAlongside my scientific work, I’m also an Independent Creator & Digital Strategist. I design and manage digital ecosystems where ideas can move across platforms—through writing, media, and digital products—connecting research, storytelling, and community building.\nCollaboration excites me, especially on projects at the intersection of health technology, educational platforms, and cutting-edge research. If you’re working on something in these areas, I’d be glad to connect."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "lk01sg",
     "section": "",
-    "text": "Hi, I’m Linda K. Sg.\nWith a background in pharmacy and a master’s degree in Pharmacology and Toxicology from ITB, my work has always revolved around bridging life sciences, data, and engineering to address real-world health challenges. I’ve contributed to improving medical data quality at an Indonesian health-tech startup, provided pharmacy services to my local community, and taught pharmacology and chemical engineering—mentoring aspiring scientific professionals along the way.\nMy current interests span systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—fields I see as pivotal for advancing drug discovery and the life sciences. The goal is to translate complex knowledge into solutions that are accessible, practical, and impactful.\nAlongside my scientific work, I’m also an Independent Creator & Digital Strategist. I design and manage digital ecosystems where ideas can move across platforms—through writing, media, and digital products—connecting research, storytelling, and community building.\nCollaboration excites me, especially on projects at the intersection of health technology, educational platforms, and cutting-edge research. If you’re working on something in these areas, I’d be glad to connect."
+    "text": "Hi, I’m Linda K. Sg.\n\nWith a background in pharmacy and a master’s degree in Pharmacology and Toxicology from ITB, my work has always revolved around bridging life sciences, data, and engineering to address real-world health challenges. I’ve contributed to improving medical data quality at an Indonesian health-tech startup, provided pharmacy services to my local community, and taught pharmacology and chemical engineering—mentoring aspiring scientific professionals along the way.\nMy current interests span systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—fields I see as pivotal for advancing drug discovery and the life sciences. The goal is to translate complex knowledge into solutions that are accessible, practical, and impactful.\nAlongside my scientific work, I’m also an Independent Creator & Digital Strategist. I design and manage digital ecosystems where ideas can move across platforms—through writing, media, and digital products—connecting research, storytelling, and community building.\nCollaboration excites me, especially on projects at the intersection of health technology, educational platforms, and cutting-edge research. If you’re working on something in these areas, I’d be glad to connect."
   },
   {
     "objectID": "index.html#portfolio",
@@ -33,5 +33,68 @@
     "title": "lk01sg",
     "section": "Contact",
     "text": "Contact\nEmail: lk01sg@protonmail.com"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page lists my publications, selected works, and projects.\n(More publications will be added as research progresses.)"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n[Year] Title of Publication\nAuthors…\nJournal / Conference Name. [DOI or link if available]"
+  },
+  {
+    "objectID": "publications.html#books-book-chapters",
+    "href": "publications.html#books-book-chapters",
+    "title": "Publications",
+    "section": "Books & Book Chapters",
+    "text": "Books & Book Chapters\n\n[Upcoming] Planned book on [topic: e.g., science & policy, computational drug discovery]"
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\n[Year] Presentation Title – Conference Name, Location."
+  },
+  {
+    "objectID": "publications.html#in-progress",
+    "href": "publications.html#in-progress",
+    "title": "Publications",
+    "section": "In Progress",
+    "text": "In Progress\n\nManuscript on [topic, e.g., network-based drug design] (in preparation)."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "From Life Sciences to Drug Innovation, SyntesaMateria."
+  },
+  {
+    "objectID": "media.html#syntesamateria",
+    "href": "media.html#syntesamateria",
+    "title": "Media",
+    "section": "",
+    "text": "From Life Sciences to Drug Innovation, SyntesaMateria."
+  },
+  {
+    "objectID": "media.html#uppeti",
+    "href": "media.html#uppeti",
+    "title": "Media",
+    "section": "UPPETI",
+    "text": "UPPETI\nPuppik Penyawo Batin, UPPETI."
+  },
+  {
+    "objectID": "media.html#talks",
+    "href": "media.html#talks",
+    "title": "Media",
+    "section": "Talks",
+    "text": "Talks\nn/a"
   }
 ]
