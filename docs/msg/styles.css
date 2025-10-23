@@ -1,177 +1,156 @@
 /* ============================================
-   OVERRIDE QUARTO THEME - DARK CHAT MODE
+   MINIMAL CHAT THEME
    ============================================ */
 
-/* Global Dark Background */
+/* Dark Background */
 body {
-    background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 100%) !important;
-    color: #e8e8e8 !important;
+    background: #0a0a0a !important;
+    color: #e0e0e0 !important;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif !important;
 }
 
-/* Container Width */
-#quarto-content,
-main.content {
-    max-width: 680px !important;
-    margin: 0 auto !important;
-    padding: 20px 16px !important;
-}
-
-/* Remove Quarto default title */
+/* Hide Quarto Title */
 header#title-block-header {
     display: none;
 }
 
 /* ============================================
-   HEADER CARD
+   HEADER SECTION
    ============================================ */
 .header {
-    background: linear-gradient(135deg, #2d2d2d 0%, #252525 100%);
-    border-radius: 16px;
-    padding: 24px;
-    margin-bottom: 24px;
-    border: 1px solid #333;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    background: #141414;
+    border-radius: 12px;
+    padding: 28px;
+    margin-bottom: 32px;
+    border: 1px solid #222;
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header h1 {
-    font-size: 1.4em !important;
-    margin-bottom: 12px !important;
+    font-size: 1.3em !important;
+    margin: 0 0 12px 0 !important;
     color: #ffffff !important;
-    font-weight: 600 !important;
-    margin-top: 0 !important;
+    font-weight: 500 !important;
+    letter-spacing: -0.02em;
 }
 
 .header p {
-    color: #b0b0b0 !important;
-    font-size: 0.95em;
-    line-height: 1.5;
-    margin-bottom: 0;
+    color: #999 !important;
+    font-size: 0.92em;
+    line-height: 1.6;
+    margin: 0;
 }
 
 .header-links {
     display: flex;
-    gap: 12px;
-    margin-top: 16px;
+    gap: 10px;
+    margin-top: 20px;
 }
 
 .header-links a {
-    display: inline-block;
-    padding: 8px 16px;
-    background: #3a3a3a;
-    color: #7ab4ff !important;
+    padding: 9px 18px;
+    background: #1a1a1a;
+    color: #6ba3ff !important;
     text-decoration: none !important;
     border-radius: 8px;
-    font-size: 0.9em;
-    transition: all 0.2s;
-    border: 1px solid #444;
+    font-size: 0.88em;
+    border: 1px solid #2a2a2a;
+    font-weight: 500;
+    transition: background 0.2s;
 }
 
 .header-links a:hover {
-    background: #444;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(122, 180, 255, 0.2);
+    background: #242424;
 }
 
 /* ============================================
-   MESSAGE BUBBLES
+   MESSAGE CARDS
    ============================================ */
 .message {
-    background: linear-gradient(135deg, #2a2a2a 0%, #242424 100%);
-    border-radius: 16px 16px 16px 4px;
-    padding: 18px 20px;
-    margin-bottom: 16px;
-    border: 1px solid #353535;
-    position: relative;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-    transition: all 0.2s;
-}
-
-.message:hover {
-    transform: translateX(4px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-}
-
-/* Chat tail */
-.message::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: -8px;
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 0 0 12px 12px;
-    border-color: transparent transparent #242424 transparent;
+    background: #141414;
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 20px;
+    border: 1px solid #222;
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .message-date {
     display: inline-block;
-    font-size: 0.8em;
-    color: #888 !important;
-    margin-bottom: 10px;
-    padding: 4px 10px;
-    background: #1a1a1a;
+    font-size: 0.78em;
+    color: #666 !important;
+    margin-bottom: 14px;
+    padding: 5px 12px;
+    background: #0f0f0f;
     border-radius: 6px;
     font-weight: 500;
 }
 
 .message h3 {
-    color: #ffffff !important;
-    font-size: 1.15em !important;
-    margin-bottom: 8px !important;
-    margin-top: 8px !important;
-    font-weight: 600 !important;
+    color: #f5f5f5 !important;
+    font-size: 1.08em !important;
+    margin: 0 0 10px 0 !important;
+    font-weight: 500 !important;
+    letter-spacing: -0.01em;
 }
 
 .message p {
-    color: #d0d0d0 !important;
-    margin-bottom: 10px;
-    font-size: 0.95em;
+    color: #b8b8b8 !important;
+    margin-bottom: 12px;
+    font-size: 0.93em;
+    line-height: 1.65;
+}
+
+.message p:last-of-type {
+    margin-bottom: 0;
 }
 
 .message-tag {
     display: inline-block;
-    color: #7ab4ff !important;
-    font-size: 0.85em;
-    margin-top: 8px;
-    padding: 4px 10px;
-    background: rgba(122, 180, 255, 0.1);
+    color: #6ba3ff !important;
+    font-size: 0.82em;
+    margin-top: 12px;
+    padding: 6px 14px;
+    background: rgba(107, 163, 255, 0.08);
     border-radius: 6px;
-    border: 1px solid rgba(122, 180, 255, 0.2);
+    border: 1px solid rgba(107, 163, 255, 0.15);
+    font-weight: 500;
 }
 
 .message a {
-    color: #7ab4ff !important;
+    color: #6ba3ff !important;
     text-decoration: none !important;
     font-weight: 500;
-    border-bottom: 1px solid rgba(122, 180, 255, 0.3);
-    transition: all 0.2s;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s;
 }
 
 .message a:hover {
-    color: #a0c9ff !important;
-    border-bottom-color: #a0c9ff;
+    border-bottom-color: #6ba3ff;
 }
 
 /* ============================================
-   CODE BLOCKS (Quarto styling)
+   CODE BLOCKS
    ============================================ */
 pre.sourceCode,
 div.sourceCode {
-    background: #1a1a1a !important;
-    border: 1px solid #333 !important;
-    border-radius: 12px !important;
-    padding: 16px !important;
-    margin: 16px 0 !important;
+    background: #0f0f0f !important;
+    border: 1px solid #222 !important;
+    border-radius: 10px !important;
+    padding: 18px !important;
+    margin: 20px 0 !important;
 }
 
 code {
-    background: #2a2a2a !important;
-    color: #7ab4ff !important;
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-size: 0.9em;
+    background: #1a1a1a !important;
+    color: #6ba3ff !important;
+    padding: 3px 7px;
+    border-radius: 5px;
+    font-size: 0.88em;
 }
 
 pre code {
@@ -180,55 +159,18 @@ pre code {
 }
 
 /* ============================================
-   PLOTS & GRAPHICS (Quarto output)
-   ============================================ */
-.cell-output-display {
-    background: #2a2a2a;
-    padding: 16px;
-    border-radius: 12px;
-    border: 1px solid #353535;
-    margin: 16px 0;
-}
-
-/* ============================================
    RESPONSIVE
    ============================================ */
 @media (max-width: 600px) {
-    body {
-        padding: 12px !important;
-    }
-
     .header {
-        padding: 18px;
+        padding: 22px 18px;
     }
 
     .header-links {
         flex-direction: column;
     }
 
-    .header-links a {
-        text-align: center;
-    }
-
     .message {
-        padding: 16px;
-    }
-}
-
-/* ============================================
-   ANIMATION
-   ============================================ */
-.message {
-    animation: slideIn 0.4s ease-out;
-}
-
-@keyframes slideIn {
-    from {
-        opacity: 0;
-        transform: translateX(-20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateX(0);
+        padding: 20px 16px;
     }
 }
