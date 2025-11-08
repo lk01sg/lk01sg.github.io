@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: ../docs/blog
 
 # PENTING: Render blog secara independen
 execute:
@@ -36,7 +36,7 @@ website:
         aria-label: Mastodon Profile
   page-footer:
     left: "© 2025 lk01sg"
-    center: "[Categories](categories.qmd) · [Archive](archive.qmd)"
+    center: "[Categories](/blog/categories.html) · [Archive](/blog/archive.html)"
     right: "[RSS](index.xml)"
 
 format:
