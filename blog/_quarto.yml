@@ -36,14 +36,14 @@ website:
         aria-label: Mastodon Profile
   page-footer:
     left: "© 2025 lk01sg"
-    center: "[Categories](/blog/categories.html) · [Archive](/blog/archive.html)"
+    center: "[Categories](categories.html) · [Archive](archive.html)"
     right: "[RSS](index.xml)"
 
 format:
   html:
     theme: 
       - cosmo
-      - custom.scss
+      - custom.css
     toc: true
     toc-location: right
     toc-depth: 3
