@@ -1,0 +1,37 @@
+---
+title: "Week 1: Network Analysis Pipeline Setup"
+date: "2025-11-07"
+categories: [progress, project, systems-biology, code]
+description: "Setting up the computational pipeline for immune network analysis"
+---
+
+## This Week's Focus
+
+Started building the analysis pipeline for immune cell network analysis...
+
+## Methods Implemented
+
+- Louvain clustering for community detection
+- NetworkX for graph construction
+- Scanpy preprocessing workflow
+
+## Code
+```python
+import scanpy as sc
+import networkx as nx
+
+# Pipeline setup
+...
+```
+
+## Challenges
+
+Memory issues with large adjacency matrices → switched to sparse representation.
+
+## Next Steps
+
+- Validate clustering on test dataset
+- Implement visualization
+- Write up methods section
+
+**Tags:** Working on immune network topology project, implementing graph analysis methods, debugging memory issues.

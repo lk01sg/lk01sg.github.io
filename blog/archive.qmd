@@ -1,0 +1,12 @@
+---
+title: "Archive"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, categories, description]
+page-layout: full
+---

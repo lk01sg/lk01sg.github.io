@@ -1,0 +1,48 @@
+---
+title: "Research Log"
+subtitle: "Open lab notebook · Computational pharmacology & systems biology"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  page-size: 10
+page-layout: full
+title-block-banner: true
+---
+
+Open documentation of computational biology research in progress by Linda K. Sg.
+
+## Content Types
+
+**Research Process:** `progress` `project` `methods` `debugging`  
+**Knowledge Building:** `literature` `learning` `theory`  
+**Technical:** `code` `data-analysis` `tools`  
+**Domains:** `systems-biology` `immunology` `pharmacology` `computational`  
+**Meta:** `reflection` `career` `meta`
+
+---
+
+## Scope
+
+This blog sits within my broader knowledge ecosystem:
+
+| Platform | Focus | Content Type |
+|----------|-------|--------------|
+| **Research Log** (here) | Active research process | Working notes, technical docs |
+| [Projects](https://lk01sg.github.io/projects) | Completed work | Portfolio showcase |
+| [Medium](https://medium.com/@lk01sg) | Science communication | Polished articles |
+| [Mastodon](https://genomic.social/@lk01sg) | Community engagement | Quick updates, discussions |
+
+---
+
+**Topics:** Systems biology · Network pharmacology · Immunology · PK/PD modeling · Drug discovery · BioAI · Protein structure
+
+**Stack:** Quarto · Python · R · Git  
+**License:** CC-BY (text) · MIT (code)
+
+---
+
+**Subscribe:** [RSS](index.xml) · [Mastodon](https://genomic.social/@lk01sg)

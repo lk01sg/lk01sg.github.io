@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+
+# PENTING: Render blog secara independen
+execute:
+  freeze: auto
+
+website:
+  title: "Blog - lk01sg"
+  description: "Open documentation of computational biology research in progress by Linda K. Sg."
+  site-url: "https://lk01sg.github.io/blog"
+  navbar:
+    title: "lk01sg"
+    left:
+      - text: "Home"
+        href: blog.qmd
+      - text: "Categories"
+        href: categories.qmd
+      - text: "Archive"
+        href: archive.qmd
+    right:
+      - text: "← Back to Main Site"
+        href: https://lk01sg.github.io/
+      - text: "GitHub"
+        href: https://github.com/lk01sg
+        aria-label: GitHub Profile
+      - text: "Scholar"
+        href: https://scholar.google.com/citations?user=YOUR_ID
+        aria-label: Google Scholar Profile
+      - text: "ORCID"
+        href: https://orcid.org/YOUR-ORCID
+        aria-label: ORCID Profile
+      - text: "Mastodon"
+        href: https://genomic.social/@lk01sg
+        aria-label: Mastodon Profile
+  page-footer:
+    left: "© 2025 lk01sg"
+    center: "[Categories](categories.qmd) · [Archive](archive.qmd)"
+    right: "[RSS](index.xml)"
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    page-layout: article
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    title-block-banner: true
+
+crossref:
+  chapters: false
+  fig-title: "Figure"
+  tbl-title: "Table"

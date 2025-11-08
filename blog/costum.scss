@@ -1,0 +1,127 @@
+/*-- scss:defaults --*/
+
+// Base colors (subtle, professional)
+$primary: #5a7a8c;        // Medium blue-gray (slightly darker than #bfced6)
+$secondary: #455660;      // Dark blue-gray
+$link-color: #2c5a7a;     // Blue for links (readable, professional)
+$body-color: #212529;     // Dark text
+$body-bg: #ffffff;        // White background
+
+// Banner colors (gradient - eye-catching)
+$banner-start: #2c3e50;   // Dark blue
+$banner-end: #3498db;     // Bright blue
+
+/*-- scss:rules --*/
+
+// Title banner with gradient
+.quarto-title-banner {
+  background: linear-gradient(135deg, $banner-start 0%, $banner-end 100%);
+  color: white !important;
+  padding: 2.5rem 0;  // More breathing room
+  
+  .quarto-title h1,
+  .quarto-title .title {
+    color: white !important;
+    font-weight: 600;
+  }
+  
+  .quarto-title .subtitle {
+    color: rgba(255, 255, 255, 0.9) !important;
+    font-weight: 400;
+  }
+}
+
+// Navbar
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-weight: 600;
+  color: $secondary !important;
+}
+
+.nav-link {
+  color: $secondary !important;
+  
+  &:hover {
+    color: $primary !important;
+  }
+}
+
+// Listing page
+.listing-title {
+  font-weight: 500;
+  color: $secondary;
+  
+  &:hover {
+    color: $primary;
+  }
+}
+
+.listing-description {
+  color: #6c757d;
+  font-size: 0.95rem;
+}
+
+.listing-date {
+  color: #868e96;
+  font-size: 0.9rem;
+}
+
+// Category badges
+.listing-category {
+  background-color: rgba($primary, 0.15);
+  color: $secondary;
+  padding: 0.2rem 0.6rem;
+  border-radius: 0.25rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  
+  &:hover {
+    background-color: rgba($primary, 0.25);
+    text-decoration: none;
+  }
+}
+
+// Code styling
+code {
+  background-color: #f8f9fa;
+  color: #e83e8c;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre.sourceCode {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 0.375rem;
+}
+
+// Table of contents
+.sidebar nav[role="doc-toc"] {
+  font-size: 0.9rem;
+  
+  ul > li > a {
+    color: $secondary;
+    
+    &:hover {
+      color: $primary;
+    }
+  }
+}
+
+// Footer
+.nav-footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1.5rem 0;
+  
+  a {
+    color: $secondary;
+    
+    &:hover {
+      color: $primary;
+    }
+  }
+}

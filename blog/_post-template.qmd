@@ -1,0 +1,31 @@
+---
+title: "Post Title Here"
+date: "2024-MM-DD"
+categories: [tag1, tag2]  # 2-4 tags - see _tagging-guide.md
+description: "Brief description (1-2 sentences) for post preview"
+draft: true  # Remove when ready to publish
+---
+
+## Context / Background
+
+What is this post about? Why now?
+
+## [Main Content Section]
+
+Your content here...
+
+## Key Points / Takeaways
+
+- Point 1
+- Point 2
+- Point 3
+
+## Next Steps / Future Work
+
+What comes next?
+
+---
+
+**Related posts:** [Link if relevant]  
+**Code/Data:** [GitHub link if relevant]  
+**References:** [Citations if relevant]

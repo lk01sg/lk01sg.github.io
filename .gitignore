@@ -1,3 +1,8 @@
 /.quarto/
-
 **/*.quarto_ipynb
+
+# Main site output
+/_site/
+
+# Blog: commit output tapi ignore cache
+blog/.quarto/

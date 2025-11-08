@@ -1,0 +1,21 @@
+# Default metadata for all blog posts
+# Individual posts can override these settings
+
+# Author info
+author: "Linda K. Sg."
+
+# Rendering
+freeze: auto  # Better than true - only rerender when changed
+title-block-banner: true
+
+# Layout defaults
+page-layout: article
+toc: true
+
+# Code defaults
+code-fold: false  # Show code by default in posts
+code-tools: true
+code-copy: true
+
+# Citation
+citation: true

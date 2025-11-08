@@ -1,0 +1,99 @@
+---
+title: "Categories"
+subtitle: "Guide to blog content organization"
+page-layout: full
+title-block-banner: true
+---
+
+This blog uses a simple, practical tagging system to organize research documentation. 
+
+---
+
+## Research Process
+
+Tags for documenting the research workflow and progress.
+
+**`progress`**  
+Updates, project milestones, and overall research progress. Use this for regular check-ins and status reports.
+
+**`project`**  
+Project-specific work and documentation. Use when focusing on a particular research project or initiative.
+
+
+**`methods`**  
+Method implementations, technique explanations, and procedural documentation. Use when describing HOW you do something.
+
+**`debugging`**  
+Problem-solving stories, error resolution, and troubleshooting documentation. Use when documenting challenges and their solutions.
+
+---
+
+## Knowledge Building
+
+Tags for learning, synthesis, and theoretical exploration.
+
+**`literature`**  
+Paper summaries, literature reviews, and reading notes. Use when engaging with published research.
+
+**`learning`**  
+New concepts, tutorials, and skill development. Use when documenting learning process or creating educational content.
+
+**`theory`**  
+Theoretical frameworks, conceptual models, and foundational concepts. Use for deeper conceptual explorations.
+
+---
+
+## Technical
+
+Tags for computational and technical content.
+
+**`code`**  
+Code examples, scripts, and programming solutions. Use when sharing executable code or implementation details.
+
+**`data-analysis`**  
+Data analysis workflows, statistical methods, and analytical approaches. Use for analysis-focused content.
+
+**`tools`**  
+Software reviews, package tutorials, and tool comparisons. Use when discussing research tools and infrastructure.
+
+---
+
+## Research Domains
+
+Tags for specific scientific areas and topics.
+
+**`systems-biology`**  
+Network analysis, systems modeling, pathway analysis, and integrative approaches. Use for systems-level research.
+
+**`immunology`**  
+Immune system research, immunological mechanisms, and immune-related projects. Use for immunology-focused work.
+
+**`pharmacology`**  
+Drug discovery, drug-target interactions, and pharmacological research. Use for drug-related content.
+
+**`pk-pd`**  
+Pharmacokinetics, pharmacodynamics, PKPD modeling, and dose-response analysis.
+
+**`drug-discovery`**  
+Drug design, target identification, lead optimization, and discovery pipelines.
+
+**`bioai`**  
+Machine learning for biology, protein structure prediction, and AI applications in life sciences.
+
+**`computational`**  
+General computational biology, bioinformatics, and computational methods not specific to above domains.
+
+---
+
+## Meta
+
+Tags for blog-related and personal content.
+
+**`meta`**  
+Posts about the blog itself, open science practices, and knowledge management approaches.
+
+**`reflection`**  
+Personal insights, research reflections, and philosophical musings about science and research.
+
+**`career`**  
+PhD journey, academic development, professional growth, and career-related content.
