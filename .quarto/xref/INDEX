@@ -19,5 +19,17 @@
   },
   "curriculum-vitae .qmd": {
     "curriculum-vitae .html": "165547d3"
+  },
+  "blog/archive.qmd": {
+    "archive.html": "6e60374d"
+  },
+  "blog/blog.qmd": {
+    "blog.html": "8f413c27"
+  },
+  "blog/categories.qmd": {
+    "categories.html": "b367e531"
+  },
+  "blog/posts/2025-11-07-network-analysis/index.qmd": {
+    "index.html": "db8a2601"
   }
 }
