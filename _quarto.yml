@@ -1,6 +1,9 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site    # ← Ubah dari docs ke _site
+  render:
+    - "*.qmd"
+    - "!blog/**"       # Exclude blog
 
 website:
   title: "lk01sg"

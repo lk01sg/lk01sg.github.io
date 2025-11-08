@@ -1,59 +1,94 @@
 [
   {
-    "objectID": "media.html",
-    "href": "media.html",
-    "title": "Media",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "X\nInstagram\nBluesky\nGitHub"
+    "text": "This page lists my publications, selected works, and projects.\n(More publications will be added as research progresses.)"
   },
   {
-    "objectID": "media.html#social-links",
-    "href": "media.html#social-links",
-    "title": "Media",
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n[Year] Title of Publication\nAuthors…\nJournal / Conference Name. [DOI or link if available]"
+  },
+  {
+    "objectID": "publications.html#books-book-chapters",
+    "href": "publications.html#books-book-chapters",
+    "title": "Publications",
+    "section": "Books & Book Chapters",
+    "text": "Books & Book Chapters\n\n[Upcoming] Planned book on [topic: e.g., science & policy, computational drug discovery]"
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\n[Year] Presentation Title – Conference Name, Location."
+  },
+  {
+    "objectID": "publications.html#in-progress",
+    "href": "publications.html#in-progress",
+    "title": "Publications",
+    "section": "In Progress",
+    "text": "In Progress\n\nManuscript on [topic, e.g., network-based drug design] (in preparation)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "lk01sg",
     "section": "",
-    "text": "X\nInstagram\nBluesky\nGitHub"
+    "text": "Hi, I’m Linda Kirana Singagerda (Linda K. Sg.).\n\nWith a background in pharmacy and a master’s degree in Pharmacology and Toxicology from ITB, my work has always revolved around bridging life sciences, data, and engineering to address real-world health challenges. I’ve contributed to improving medical data quality at an Indonesian health-tech startup, provided pharmacy services to my local community, and taught pharmacology and chemical engineering—mentoring aspiring scientific professionals along the way.\nMy current interests span systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—fields I see as pivotal for advancing drug discovery and the life sciences. The goal is to translate complex knowledge into solutions that are accessible, practical, and impactful.\nAlongside my scientific work, I’m also an Independent Creator & Digital Strategist. I design and manage digital ecosystems where ideas can move across platforms—through writing, media, and digital products—connecting research, storytelling, and community building.\nCollaboration excites me, especially on projects at the intersection of health technology, educational platforms, and cutting-edge research. If you’re working on something in these areas, I’d be glad to connect."
   },
   {
-    "objectID": "media.html#uppeti",
-    "href": "media.html#uppeti",
-    "title": "Media",
-    "section": "Uppeti",
-    "text": "Uppeti\nPuppik Penyawo Batin Uppeti."
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "lk01sg",
+    "section": "",
+    "text": "Hi, I’m Linda Kirana Singagerda (Linda K. Sg.).\n\nWith a background in pharmacy and a master’s degree in Pharmacology and Toxicology from ITB, my work has always revolved around bridging life sciences, data, and engineering to address real-world health challenges. I’ve contributed to improving medical data quality at an Indonesian health-tech startup, provided pharmacy services to my local community, and taught pharmacology and chemical engineering—mentoring aspiring scientific professionals along the way.\nMy current interests span systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—fields I see as pivotal for advancing drug discovery and the life sciences. The goal is to translate complex knowledge into solutions that are accessible, practical, and impactful.\nAlongside my scientific work, I’m also an Independent Creator & Digital Strategist. I design and manage digital ecosystems where ideas can move across platforms—through writing, media, and digital products—connecting research, storytelling, and community building.\nCollaboration excites me, especially on projects at the intersection of health technology, educational platforms, and cutting-edge research. If you’re working on something in these areas, I’d be glad to connect."
   },
   {
-    "objectID": "media.html#syntesamateria",
-    "href": "media.html#syntesamateria",
-    "title": "Media",
-    "section": "SyntesaMateria",
-    "text": "SyntesaMateria\nFrom Life Sciences to Drug Innovation, Syntesamateria."
+    "objectID": "index.html#portfolio",
+    "href": "index.html#portfolio",
+    "title": "lk01sg",
+    "section": "Portfolio",
+    "text": "Portfolio\n\nCurriculum Vitae — brief overview (full CV available upon request).\nPublications — selected works and ongoing research.\n\nCertifications — training and professional credentials."
   },
   {
-    "objectID": "media.html#talks",
-    "href": "media.html#talks",
-    "title": "Media",
-    "section": "Talks",
-    "text": "Talks\n\nComing soon."
+    "objectID": "index.html#on-writing",
+    "href": "index.html#on-writing",
+    "title": "lk01sg",
+    "section": "📚 On Writing",
+    "text": "📚 On Writing\nI run SyntesaMateria and UPPETI, two independent digital media platforms. SyntesaMateria focuses on science and technology, publishing curated content, in-depth articles, and educational resources for students, researchers, and a broader audience. UPPETI serves as a more personal and creative outlet, where I explore philosophy, art, and reflective writing. Together, they represent complementary sides of my writing and creative practice. More details about these platforms can be found here.\nDigital resources, guides, and creative projects are also available on my Gumroad page, offering content that extends and complements the work published on both platforms."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "lk01sg",
+    "section": "Contact",
+    "text": "Contact\nReach me via email or find me on GitHub, Scholar, ORCID, and Mastodon."
   },
   {
     "objectID": "certifications.html",
     "href": "certifications.html",
     "title": "Certifications",
     "section": "",
-    "text": "Sertifikasi A\nSertifikasi B"
+    "text": "Introduction to System Biology. Held by Icahn School of Medicine at Mount Sinai. Taken on Coursera. Issued March 2022. see credential\n\n\n\nThe role of Artificial Intelligence in Precision/Personalized Medicine. Held by Artificial Intelligence Center ITB. Taken on Zoom. Issued August 2022. see credential"
   },
   {
     "objectID": "certifications.html#section",
     "href": "certifications.html#section",
     "title": "Certifications",
     "section": "",
-    "text": "Sertifikasi A\nSertifikasi B"
+    "text": "Introduction to System Biology. Held by Icahn School of Medicine at Mount Sinai. Taken on Coursera. Issued March 2022. see credential\n\n\n\nThe role of Artificial Intelligence in Precision/Personalized Medicine. Held by Artificial Intelligence Center ITB. Taken on Zoom. Issued August 2022. see credential"
   },
   {
     "objectID": "certifications.html#section-1",
     "href": "certifications.html#section-1",
     "title": "Certifications",
     "section": "2021",
-    "text": "2021\n\nSertifikasi C"
+    "text": "2021\n\nWorkshop\nPelatihan Penulisan Artikel Populer. Held by Direktorat Publikasi Ilmiah dan Informasi Strategis, IPB University. Taken on Zoom. Issued November 2021. see credential\nWorkshop Bioinformatika: Network Pharmacology. Held by PUI-PT Pusat Studi Biofarmaka Tropika LPPM IPB University. Taken on Zoom. Issued May 2021. see credential\n\n\nSeminar\nStepping into Precision Medicine Era in Cancer. Held by Department of Pharmacology & Therapy; Faculty of Medicine, Public Health and Nursing; Universitas Gajah Mada. Taken on Zoom. Issued November 2021. see credential\nThe 33rd IPB Strategic Talk: Reorientasi Ekonomi Indonesia Berbasis Nusantaranomics Menuju Masyarakat yang Berkeadilan Sosial. Held by Direktorat Publikasi Ilmiah dan Informasi Strategis, IPB University. Taken on Zoom. Issued November 2021. see credential\nTropBRC Webinar Series #6: Trend Riset Metabolomik dalam Pengembangan Produk Biofarmaka. Held by PUI-PT Pusat Studi Biofarmaka Tropika LPPM IPB University in collaboration with Himpunan Kimia Indonesia, Klaster Riset Metabolomik AR-Lab IPB, and Forum Metabolomik Indonesia. Taken on Zoom. Issued July 2021. see credential\n1st Webinar of Enzyme Series: Current and Future Trends in Enzyme Technology and Its Application. Held by PUI Biorefineri Terpadu, Puslit Bioteknologi Lembaga Ilmu Pengetahuan Indonesia (LIPI) in collaboration with Badan Riset dan Inovasi Nasional (BRIN). Taken on Zoom. Issued June 2021. see credential\nTropBRC Webinar Series #4: Potensi Sumber Daya Hayati Indonesia sebagai Sumber Biofarmaka. Held by PUI-PT Pusat Studi Biofarmaka Tropika LPPM IPB University. Taken on Zoom. Issued June 2021. see credential\nRodent Anesthesia from Start to Finish. Held by Asosiasi Dokter Hewan Praktisi Hewan Laboratorium Indonesia (ADHPHLI), Perhimpunan Peneliti dan Pengguna Hewan Laboratorium Indonesia (P3HLI) and Perhimpunan Dokter Hewan Indonesia (PDHI) Cabang Jawa Barat II. Taken on Zoom. Issued April 2021. see credential\nWebinar Series #1 Perhipba: Kekayaan Sumber Hayati Obat Herbal. Held by Perhimpunan Peneliti Bahan Alam (Perhipba) in collaboration with PUI-PT Pusat Studi Biofarmaka Tropika LPPM IPB University, and PUI PT Nutrasetikal-Pusat Penelitian Biosains dan Bioteknologi ITB. Taken on Zoom. Issued March 2021. see credential\nPerhitungan Jumlah Sampel pada Penelitian dengan Hewan Coba. Held by Asosiasi Dokter Hewan Praktisi Hewan Laboratorium Indonesia (ADHPHLI), Perhimpunan Peneliti dan Pengguna Hewan Laboratorium Indonesia (P3HLI) and Perhimpunan Dokter Hewan Indonesia (PDHI) Cabang Jawa Barat II. Taken on Zoom. Issued March 2021. see credential"
   },
   {
     "objectID": "certifications.html#section-2",
@@ -63,24 +98,73 @@
     "text": "2020\n\nCourse\nPengelolaan Fasilitas Hewan Penelitian dan Pengujian (Tikus dan Mencit). Held by Pusat Studi Satwa Primata – LPPM IPB in collaboration with Asosiasi Dokter Hewan Praktisi Hewan Laboratorium Indonesia (ADHPHLI), Perhimpunan Peneliti dan Pengguna Hewan Laboratorium Indonesia (P3HLI) and Perhimpunan Dokter Hewan Indonesia (PDHI) Cabang Jawa Barat II. Taken on Zoom. Issued October 2020. see credential\nAromatherapy: Clinical Use of Essential Olis. Held by University of Minnesota. Taken on Coursera. Issued September 2020. see credential\nPerfect Tenses and Modals. Held by University of California, Irvine. Taken on Coursera. Issued September 2020. see credential\nPenggunaan Tikus dan Mencit dalam Pengujian dan Penelitian. Held by Pusat Studi Satwa Primata – LPPM IPB in collaboration with Asosiasi Dokter Hewan Praktisi Hewan Laboratorium Indonesia (ADHPHLI), Perhimpunan Peneliti dan Pengguna Hewan Laboratorium Indonesia (P3HLI) and Perhimpunan Dokter Hewan Indonesia (PDHI) Cabang Jawa Barat II. Taken on Zoom. Issued August 2020. see credential\nIntroduction to Philosophy. Held by The University of Edinburgh. Taken on Coursera. Issued July 2020. see credential\nDrug Discovery. Held by University of California San Diego (UC San Diego). Taken on Coursera. Issued June 2020. see credential\nCovid-19 Contact Tracing. Held by The John Hopkins University. Taken on Coursera. Issued May 2020. see credential\n\n\nWorkshop\nWeb Training: Penulisan Artikel Ilmiah Populer di Media Massa. Held by Lembaga Ilmu Pengetahuan Indonesia (LIPI). Taken on Zoom. Issued November 2020. see credential\nWorkshop Kurikulum Merdeka untuk Pengembangan Bioteknologi Sumber Daya Hayati Indonesia. Held by Program Studi Bioteknologi, Departemen Biologi, Fakultas Sains dan Matematika, Universitas Dipenegoro (UNDIP). Taken on Zoom. Issued July 2020. see credential\nWebinar Workshop Online Publikasi di Jurnal Internasional Bereputasi Menengah dan Tinggi. Held by Lembaga Ilmu Pengetahuan Indonesia (LIPI). Taken on Zoom. Issued July 2020. see credential\nVirtual Workshop on International Standard Paper Writing and Publication. Held by IEEE Indonesia Section. Taken on Zoom. Issued June 2020. see credential\n\n\nModule\nStructuring Your Article Correctly. Held by Researcher Academy, Elsevier. Taken on Researcher Academy. Issued August 2020. see credential\nHow to Prepare Your Manuscript. Held by Researcher Academy, Elsevier. Taken on Researcher Academy. Issued July 2020. see credential\n\n\nSymposium\nSimposium Kopi Nasional: Semangat Mengangkat Kopi Nasional di Masa Pandemi Covid-19. Held by Asosiasi Eksportir dan Industri Kopi Indonesia (AEKI) Kontes Kopi Spesialti Indonesia. Taken on Zoom. Issued October 2020. see credential\n\n\nSeminar\nLIPI-Springer Publishing Forum 2020. Held by Balai Media dan Reproduksi (LIPI Press). Taken on Zoom. Issued November 2020. see credential\nTeknologi Probiotik dan Aplikasinya di Industri Pangan. Held by Pusat Studi Pangan dan Gizi Universitas Gadjah Mada. Taken on Zoom. Issued November 2020. see credential\nVaksin dan Herbal: Bisakah Disandingkan?. Held by Komite Pananganan COVID-19 dan Pemulihan Ekonomi Nasional (KPCPEN), Kementerian Komunikasi dan Informatika (KOMINFO), and SIBERKREASI. Taken on Zoom. Issued November 2020. see credential\nDiskusi Interaktif Online: Platform Riset dan Inovasi. Held by Energy Academy Indonesia, Atase Perindustrian KBRI Brussels and Ikatan Alumni ITB Komisariat Eropa. Taken on Youtube. Issued October 2020. see credential\nUMT – Indonesia Universities Joint Webinar on Science Topic: Natural Resources as a Potential Agent for Covid-19 Prevention. Held by Institute of Marine Biotechnology and Universiti Malaysia Terengganu. Taken on Zoom. Issued October 2020. see credential\nHilirisasi dan Komersialisasi Produk Pangan Fungsional dan Nutrasetikal Basis Riset Perguruan Tinggi dan Industri. Held by Perhimpunan Penggiat Pangan Fungsional dan Nutrasetikal Indonesia (P3FNI). Taken on Zoom. Issued October 2020. see credential\nSalam Berbagi #3: Policy and Strategy for Innovation in Digital Business and Technology towards Indonesia 2045. Held by Institut Teknologi Bandung (ITB). Taken on Zoom. Issued September 2020. see credential\nNutraceutical for Human Health. Held by Bioscience and Biotecnology Research Center – ITB. Taken on Zoom. Issued September 2020. see credential\nHilirisasi Hasil Riset dan Inovasi ke Dunia Industri. Held by Ikatan Alumni Institut Teknologi Bandung (IAITB) Komisaritat Eropa in collaboration with Atase Perindustrian KBRI Brussels and Energy Academy Indonesia (ECADIN). Taken on Zoom. Issued September 2020. see credential\nSinergi antara Akademik, Pelaku Usaha dan Pemerintah dalam Hilirisasi Hasil-Hasil Penelitian Berbasis Fitofarmaka. Held by Pusat Studi Fitofarmaka, Universitas Kristen Satya Wacana (UKSW). Taken on Zoom. Issued August 2020. see credential\nPenggunaan Hewan Coba dalam Studi COVID-19: Pertimbangan Pemilihan Hewan Model dan Aspek Biosafety. Held by Asosiasi Dokter Hewan Praktisi Hewan Laboratorium Indonesia (ADHPHLI) in collaboration with Perhimpunan Dokter Hewan Indonesia (PDHI) Cabang Jawa Barat II. Taken on Zoom. Issued August 2020. see credential\nEnsuring Reliable & Reproducible Results Everytime through Optimized Sample Preparation Workflows. Held by Berca Niaga Medika [Instrument Solution Group (ISG)]. Taken on Zoom. Issued August 2020. see credential\nThee Kian Wie V Lecture Series: Kebijakan Pembangunan yang Inklusif dan Berkelanjutan: Strategi Pemulihan Pasca Pandemi. Held by Lembaga Ilmu Pengetahuan Indonesia (LIPI). Taken on Zoom. Issued August 2020. see credential\nEast Indonesia Seas as a Global Epicentre of Marine Biodiversity. Held by Pusat Penelitian Laut Dalam, Lembaga Ilmu Pengetahuan Indonesia (LIPI) in collaboration with Ikatan Sarjana Oseanologi Indonesia (ISOI) Komda Ambon. Taken on Zoom. Issued August 2020. see credential\nMIPAtalk Series 9: The Value of Science and The Role of Experts in Crisis Situations. Held by FMIPA Universitas Indonesia. Taken on Zoom. Issued August 2020. see credential\nMendongkrak Kinerja Pengabdian kepada Masyarakat. Held Perhimpunan Dokter Hewan Indonesia Organisasi Non Teritorial Asosisasi Parasitologi Veteriner Indonesia. Taken on Zoom. Issued August 2020. see credential\nKelas Umum Pandemi 6 “Perjalanan Covid 19 di Indonesia: Dari Tes hingga Vaksin” dengan Pembicara Prof. Herawati Sudoyo. Held by Lapor Covid-19. Taken on Zoom. Issued July 2020. see credential\nPemanfaatan Bahan Alam di Bidang Kosmetik Kesehatan (Cosmeceutical). Held by Balai Besar Kimia dan Kemasan Kementerian Perindustrian Republik Indonesia. Taken on Zoom. Issued July 2020. see credential\nGuest Lecture: From Idea to Drug Development by Prof. Dr. Med. Markus Meyer, Professor at Hannover Medical School, Germany. Held by Doctoral Program in Medical Sciences. Taken on Zoom. Issued July 2020. see credential\nSeminar Online Biologi Tumbuhan. Held by Departemen Biologi, Institut Pertanian Bogor (IPB). Taken on Zoom. Issued July 2020. see credential\nWebinar Bedah Buku: Margarin Kelapa Sawit dan Fortifikasinya untuk Peningkatan Kesehatan. Held by Dakara Bisnis Institut (DBI) Publishing. Taken on Zoom. Issued July 2020. see credential\nValorisasi dan Strategi Bisnis Inovatif Minyak Atsiri. Held by Agroteknologi & Bioproduk SITH ITB in collaboration with Bio-N Oils and Bioengineering ITB. Taken on Zoom. Issued July 2020. see credential\nWebinar Series Keamanan Pangan 4: Kupas Tuntas Listeria monocytogenes dan Penyakit via Makanan Lainnya. Held by Pusat Studi Pangan dan Gizi Universitas Gadjah Mada (UGM) in collaboration with Asosiasi Profesi Keamanan Pangan Indonesia (APKEPI). Taken on Cisco Webex. Issued July 2020. see credential\nCurrent Trends of Coffee Technology: Challenge and Opportunity. Held by Southeast Asian Food & Agricultural Science & Technology (SEAFAST) Center, Lembaga Penelitian dan Pengabdian kepada Masyarakat – Institut Pertanian Bogor (IPB). Taken on Zoom. Issued July 2020. see credential\nWebinar Series #3 PUI-PT Ketahanan Pangan (Inovasi Pangan Lokal) UNTIRTA: Memaksimalkan Komoditi Khas Lokal dalam Hilirisasi Riset di Masa Pandemi Covid-19. Held by Universitas Sultan Ageng Tirtayasa. Taken on Zoom. Isssued July 2020. see credential\nAwareness Penjaminan Mutu Pengujian berbasis ISO/IEC 17025:2017. Held by PT Global Scholarship Services Indonesia, Institut Pertanian Bogor (IPB). Taken on Zoom. Issued July 2020. see credential\nWebinar Understanding Scopus Best Practices-in collaboration with Universitas Indonesia. Held by Researcher Academy, Elsevier in collaboration with Universitas Indonesia. Taken on Zoom. Issued July 2020. see credential\nMaintaining International Bonding: Learning from Partner Universities. Held by IPB University in collaboration with Tokyo University of Agriculture and Australian National University. Taken on Zoom. Issued July 2020. see credential\nIbu Kota Negara (IKN) Inklusif: Telaah Aspek Sosial dan Lingkungan Hidup dalam (Proses) Perencanaan Pembangunan. Held by Pusat Penelitian Kependudukan, Lembaga Ilmu Pengetahuan Indonesia (LIPI) in collaboration with Pengurus Nasional Ikatan Ahli Perencanaan Indonesia. Taken on Zoom. Issued July 2020. see credential\nSeri Webinar TropBRC: Budidaya Tanaman Obat. Held by Pusat Studi Biofarmaka Tropika, IPB University. Taken on Zoom. Issued July 2020. see credential\nFMIPA UI Series 6: The Value of Science and The Role of Experts in Crisis Situations. Held by FMIPA Universitas Indonesia. Taken on Zoom. Issued July 2020. see credential\nKesiapan Teknologi dan Pemanfaatannya untuk Mendukung Stabilitas Ketersediaan Minyak Nilam. Held by Balai Penelitian Tanaman Rempah dan Obat (Balittro). Taken on Zoom. Issued July 2020. see credential\nMenyikapi Transfer Material Virus, Untung atau Buntung. Held by Biro Kerja Sama, Hukum dan Humas Lembaga Ilmu Pengetahuan Indonesia (LIPI). Taken on Zoom. Issued June 2020. see credential\nWebinar Series 3 Komite Etik Penelitian Kesehatan FKUI RSCM Bersama ICTEC RSCM FKUI: Etika Penelitian Pada Pandemi Covid-19. Held by Indonesian Clinical Training & Education Center (ICTEC) in collaboration with Komite Etik Penelitian Kesehatan FKUI RSCM and Forum of Indonesian Recognized Research Ethics Committee Faculty of Medicine Universitas Indonesia (FIRREC). Taken on Zoom. Issued June 2020. see credential\nSATUPENATalk Sesi 4: Lingkungan Hidup, Budaya, Hukum pada Masa Wabah Corona. Held by SATUPENA in collaboration with Balai Pustaka. Taken on Zoom. Issued June 2020. see credential\nKonsorsium Bioteknologi Indonesia dan Badan Standardisasi Nasional Berbagi Ilmu; WEBINAR Seri 3: (1) Uji Ketahanan Bahan Tekstil APD (Hamzat) terhadap Penetrasi Mikroba Sesuai Standar EN 14126, (2) Perbandingan Hasil Inovasi Karya Anak Bangsa untuk Deteksi Rapid Test IgG/IgM dan Swab Test PCR SARS Cov2. Held by Konsorsium Bioteknologi Indonesia (KBI) in collaboration with Badan Standardisasi Nasional (BSN) and PT ITS Science Indonesia. Taken on Zoom. Issued June 2020. see credential\nSeries 1: Kurikulum Merdeka Belajar Sarjana Farmasi. Held by Faculty Mathematics and Natural Sciences Universitas Negeri Semarang. Taken on Zoom. Issued June 2020. see credential\nFMIPA UI Webinar Series 5: The Value of Science and The Role of Experts in Crisis Situations. Held by FMIPA Universitas Indonesia. Taken on Zoom. Issued June 2020. see credential\nNarkoba dan Pandemi Covid-19; Mengkaji Penyalahgunaan Narkoba dari Aspek Komorbiditas dan Watak Virus Covid-19 untuk Kesehatan secara Holistik. Held by Ikatan Alumni Universitas Indonesia (ILUNI UI) in collaboration with Badan Narkotika Nasional Republik Indonesia (BNN RI). Taken on Zoom. Issued June 2020. see credential\nTelemedicine: Now or Never. Held by Telkom University in collaboration with HMTI-1994. Taken on Zoom. Issued June 2020. see credential\nFMIPA UI Webinar Series 4: Peluang Riset Fisika Teori di Era Pandemik COVID-19. Held by FMIPA Universitas Indonesia. Taken on Zoom. Issued June 2020. see credential\nSATUPENATalk Sesi 3: Pendidikan, Ekonomi & Politik pada Masa Wabah Corona. Held by SATUPENA in collaboration with Balai Pustaka. Taken on Zoom. Issued June 2020. see credential\nSeri Inspirasi Ilmuwan: Membangun Masa Depan Indonesia dengan Riset Nanoherbal. Held by Nano Central Indonesia (NCI) in collaboration with Masyarakat Nano Indonesia (MNI). Taken on Zoom. Issued June 2020. see credential\nFMIPA UI Webinar Series 3: The Value of Science and The Role of Experts in Crisis Situations. Held by FMIPA Universitas Indonesia. Taken on Zoom. Issued June 2020. see credential\nPeran TRO Ditengah Pandemic Covid 19. Held by Balai Penelitian Tanaman Rempah dan Obat (Balittro). Taken on Zoom. Issued June 2020. see credential\nSATUPENATalk Sesi 2: Sains, Sastra & Kepemimpinan pada Masa Wabah Corona. Held by SATUPENA in collaboration with Balai Pustaka. Taken on Zoom. Issued June 2020. see credential\nNgaji Teknologi LIPI Jogja 1: Penanganan Produk Kurban di Masa Pandemi. Held by Balai Penelitian Teknologi Bahan Alam, Lembaga Ilmu Pengetahuan Indonesia (LIPI). Taken on Zoom. Issued June 2020. see credential\nWebinar PP IAKMI: Genomics and Vaccine Development. Held by Pengurus Pusat Ikatan Ahli Kesehatan Masyarakat Indonesia (PP IAKMI) in collaboration with Ikatan Ahli Kesehatan Masyarakat Indoensia Cyber University (IAKMI Cyber University). Taken on Zoom. Issued June 2020. see credential\nTalk to Scientist: Riset Kimia dan Fisika LIPI Cegah Covid-19. Held by Lembaga Ilmu Pengetahuan Indonesia (LIPI). Taken on Zoom. Issued June 2020. see credential\nSeri Webinar TropBRC: Strategi Modernisasi Jamu dalam Menghadapi Kenormalan Baru. Held by Pusat Studi Biofarmaka Tropika, IPB University. Taken on Zoom. Issued June 2020. see credential\nInternational Webinar Conference: Food and Immune System During Covid-19 Pandemic. Held by Undergraduate Program of Food Technology, Institut Teknologi Sumatera (ITERA) in collaboration with Indonesia Association of Food Technologist (PATPI) Lampung. Taken on Zoom. Issued June 2020. see credential\nKonsorsium Bioteknologi Indonesia dan Badan Standardisasi Nasional Berbagi Ilmu; WEBINAR Seri 1: (1) Pengembangan Propolis Indonesia sebagai Obat Herbal Covid-19, (2) Pengembangan Rapid Diagnostik Kit untuk Covid-19. Held by Konsorsium Bioteknologi Indonesia (KBI) in collaboration with Badan Standardisasi Nasional (BSN). Taken on Zoom. Issued June 2020. see credential\nSeri Inspirasi Ilmuan: Membangun Masa Depan dengan Riset Material dan Mobil Listrik. Held by Nano Center Indonesia (NCI) in collaboration with Masyarakat Nano Indonesia (MNI). Taken on Zoom. Issued June 2020. see credential\nAmbassador Talk with Scientist: Diplomacy in the Time of Global Pandemic. Held by Kementrian Riset dan Teknologi / Badan Riset Inovasi Nasional Republik Indonesia in collaboration with Lembaga Ilmu Pengetahuan Indonesia (LIPI). Taken on Zoom. Issued June 2020. see credential\nThe 8th Webinar Series IMERI 2020: Bioinformatics Analysis Provides Insight for COVID-2019 Research. Held by Bioinformatics Core Facilities Cluster in collaboration with Center of e-Learning Cluster Indonesian Medical Education and Research Institute (IMERI), Faculty of Medicine Universitas Indonesia (FMUI). Taken on Zoom. Issued June 2020. see credential\nQuality Learning and Assessments During the Covid-19 Pandemic. Held by Southeast Asia Minister of Education Organization (SEAMEO). Taken on Youtube. Issued May 2020. see credential\nBiodiversitas Nusantara. Held by Pusat Penelitian Biologi, Kedeputian Ilmu Pengetahuan Hayati, Lembaga Ilmu Pengetahuan Indonesia (LIPI). Taken on Zoom. Issued May 2020. see credential\nTalk to Scientists: Bekerja di Masa Pandemi Versi LIPI. Held by Lembaga Ilmu Pengetahuan Indonesia (LIPI). Taken on Zoom. Issued May 2020. see credential\nMelakukan Riset dan Membangun Virtual Laboratorium di Tengah Masa Pandemik Covid-19. Held by Fakultas Ilmu Komputer Universitas Indonesia in collaboration with IEEE Indonesia Section. Taken on Zoom. Issued May 2020. see credential"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Hi, I’m Linda K. Singagerda (aka likas).\nI’m a pharmacist with a master’s degree in Clinical Pharmacology and Toxicology from ITB. I’m passionate about combining life sciences, data, and engineering to tackle real-world health challenges. Throughout my experiences, I’ve contributed to enhancing medical data quality at an Indonesian health-tech startup, provided essential pharmacy services to my community, and taught pharmacology and chemical engineering, mentoring aspiring scientific professionals.\nMy current interests include systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—areas I believe are crucial for advancing drug discovery and life sciences. I’m dedicated to creating solutions that make science accessible, practical, and impactful.\nI’m actively seeking collaborations on innovative projects related to health technology, educational platforms, and cutting-edge research. Let’s connect and build something meaningful together."
+    "text": "Pharmacology graduate (M.Sc.) with experience in teaching, research, and health-tech startup.\nResearch interests include systems biology, molecular pharmacology, protein dynamics, and network-based drug design.\nFor the full CV, please contact me via email."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Home",
+    "objectID": "cv.html#profile",
+    "href": "cv.html#profile",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Hi, I’m Linda K. Singagerda (aka likas).\nI’m a pharmacist with a master’s degree in Clinical Pharmacology and Toxicology from ITB. I’m passionate about combining life sciences, data, and engineering to tackle real-world health challenges. Throughout my experiences, I’ve contributed to enhancing medical data quality at an Indonesian health-tech startup, provided essential pharmacy services to my community, and taught pharmacology and chemical engineering, mentoring aspiring scientific professionals.\nMy current interests include systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—areas I believe are crucial for advancing drug discovery and life sciences. I’m dedicated to creating solutions that make science accessible, practical, and impactful.\nI’m actively seeking collaborations on innovative projects related to health technology, educational platforms, and cutting-edge research. Let’s connect and build something meaningful together."
+    "text": "Pharmacology graduate (M.Sc.) with experience in teaching, research, and health-tech startup.\nResearch interests include systems biology, molecular pharmacology, protein dynamics, and network-based drug design.\nFor the full CV, please contact me via email."
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Home",
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nM.Sc. in Pharmacology – [University Name], [Year]\nB.Pharm. – [University Name], [Year]"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nLecturer – [University / Department], [Year-Year]\nCourses taught: [e.g., Chemical Engineering Program, Pharmacology basics].\nResearch & Development – Health-tech startup, [Year-Year]\nFocus on [short description, e.g., digital health solutions, clinical data, etc.]."
+  },
+  {
+    "objectID": "cv.html#highlights",
+    "href": "cv.html#highlights",
+    "title": "Curriculum Vitae",
+    "section": "Highlights",
+    "text": "Highlights\n\nResearch thesis in immunology with focus on [specifics, e.g., immune modulation in drug response].\nDeveloping interests in in silico drug discovery, AlphaFold applications, and quantitative pharmacology.\nActively preparing for PhD program applications in molecular biology, systems biology, and network pharmacology."
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "Curriculum Vitae",
     "section": "Contact",
-    "text": "Contact\nEmail: lksingagerda@outlook.co.id"
+    "text": "Contact\nReach me via email or find me on GitHub, Scholar, ORCID, and Mastodon."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "From Life Sciences to Drug Innovation, SyntesaMateria."
+  },
+  {
+    "objectID": "media.html#syntesamateria",
+    "href": "media.html#syntesamateria",
+    "title": "Media",
+    "section": "",
+    "text": "From Life Sciences to Drug Innovation, SyntesaMateria."
+  },
+  {
+    "objectID": "media.html#uppeti",
+    "href": "media.html#uppeti",
+    "title": "Media",
+    "section": "UPPETI",
+    "text": "UPPETI\nPuppik Penyawo Batin, UPPETI."
+  },
+  {
+    "objectID": "media.html#talks",
+    "href": "media.html#talks",
+    "title": "Media",
+    "section": "Talks",
+    "text": "Talks\nn/a"
   }
 ]
