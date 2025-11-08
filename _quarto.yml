@@ -17,12 +17,14 @@ website:
       - text: Blog
         href: /blog/
     right:
-      - icon: twitter-x
-        href: https://x.com/lk01sg
-      - icon: instagram
-        href: https://instagram.com/lk01sg
-      - icon: github
+      - text: "GitHub"
         href: https://github.com/lk01sg
+      - text: "Scholar"
+        href: https://scholar.google.com/citations?user=YOUR_ID
+      - text: "ORCID"
+        href: https://orcid.org/YOUR-ORCID
+      - text: "Mastodon"
+        href: https://genomic.social/@lk01sg
   page-footer: "© 2025 lk01sg"
 
 format:
