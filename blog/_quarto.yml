@@ -14,7 +14,7 @@ website:
     title: "lk01sg"
     left:
       - text: "Home"
-        href: blog.qmd
+        href: index.qmd
       - text: "Categories"
         href: categories.qmd
       - text: "Archive"
