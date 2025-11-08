@@ -10,8 +10,8 @@ website:
         href: index.qmd
       - text: Publications
         href: publications.qmd
-      - text: PhD-Portfolio
-        href: /phd-portfolio/
+      - text: Projects
+        href: /projects/
       - text: Media
         href: media.qmd
       - text: Blog
