@@ -37,7 +37,7 @@ website:
   page-footer:
     left: "© 2025 lk01sg"
     center: "[Categories](categories.html) · [Archive](archive.html)"
-    right: "[RSS](/blog/index.xml)"
+    right: "[RSS](index.xml)"
 
 format:
   html:

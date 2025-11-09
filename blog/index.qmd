@@ -47,4 +47,4 @@ This blog sits within my broader knowledge ecosystem:
 
 ---
 
-**Subscribe:** [RSS](/blog/index.xml) · [Mastodon](https://genomic.social/@lk01sg)
+**Subscribe:** [RSS](/index.xml) · [Mastodon](https://genomic.social/@lk01sg)
