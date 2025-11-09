@@ -4,23 +4,24 @@ title: ""
 
 ## About
 
-Hi, I’m Linda Kirana Singagerda (Linda K. Sg.).
+Hi, I’m Linda K. Singagerda (Linda K. Sg.).
 
 <img src="images/profile-picture.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 
-With a background in pharmacy and a master’s degree in Pharmacology and Toxicology from ITB, my work has always revolved around bridging life sciences, data, and engineering to address real-world health challenges. I’ve contributed to improving medical data quality at an Indonesian health-tech startup, provided pharmacy services to my local community, and taught pharmacology and chemical engineering—mentoring aspiring scientific professionals along the way.
+With a background in pharmacy and a master’s degree in Pharmacology and Toxicology from ITB, my work has always revolved around bridging life sciences, data, and engineering to address real-world health challenges. I’ve contributed to improving medical data quality at an Indonesian health-tech startup, provided pharmacy services to my local community, and taught pharmacology and chemical engineering, mentoring aspiring scientific professionals throughout.
 
-My current interests span systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction—fields I see as pivotal for advancing drug discovery and the life sciences. The goal is to translate complex knowledge into solutions that are accessible, practical, and impactful.
+My current interests span systems biology, PK/PD modeling, computational drug design, network pharmacology, and protein structure prediction, fields I consider pivotal for advancing drug discovery and the life sciences. The goal is to translate complex knowledge into solutions that are accessible, practical, and impactful.
 
-Alongside my scientific work, I’m also an Independent Creator & Digital Strategist. I design and manage digital ecosystems where ideas can move across platforms—through writing, media, and digital products—connecting research, storytelling, and community building.
+Alongside my scientific work, I'm also an Independent Creator & Digital Strategist. I design and manage digital ecosystems where ideas can move across platforms through writing, media, and digital products. This work connects research, storytelling, and community building.
 
 Collaboration excites me, especially on projects at the intersection of health technology, educational platforms, and cutting-edge research. If you’re working on something in these areas, I’d be glad to connect.
 
 ## Portfolio
 
-- [Curriculum Vitae](cv.qmd) — brief overview (*full CV available upon request*).
-- [Publications](publications.qmd) — selected works and ongoing research.  
-- [Certifications](certifications.qmd) — training and professional credentials.
+- [Curriculum Vitae](cv.qmd) — *full CV available upon request*
+- [Publications](publications.qmd)
+- [Certifications](certifications.qmd)
+- [Projects](/projects/)
 
 ## 📚 On Writing
 

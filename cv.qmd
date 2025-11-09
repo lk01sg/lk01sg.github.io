@@ -33,4 +33,4 @@ Research interests include **systems biology, molecular pharmacology, protein dy
 ---
 
 ## Contact
-Reach me via [email](mailto:lk01sg@protonmail.com) or find me on [GitHub](https://github.com/lk01sg), [Scholar](https://scholar.google.com/citations?user=YOUR_ID), [ORCID](https://orcid.org/0000-0000-0000-0000), and [Mastodon](https://genomic.social/@lk01sg).
+Reach me via [email](mailto:lk01sg@protonmail.com).

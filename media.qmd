@@ -3,10 +3,20 @@ title: "Media"
 ---
 
 ## SyntesaMateria
-From Life Sciences to Drug Innovation, [SyntesaMateria](https://syntesamateria.substack.com).
+From Life Sciences to Drug Innovation, SyntesaMateria.
+
+- [Substack](https://syntesamateria.substack.com)
+- [Medium](https://medium.com/syntesamateria)
+- [YouTube](https://www.youtube.com/@syntesamateria)
+
+Social: [Bluesky](https://bsky.app/profile/syntesamateria.bsky.social), [Instagram](https://www.instagram.com/syntesamateria/)
 
 ## UPPETI
-Puppik Penyawo Batin, [UPPETI](https://uppeti.substack.com/).
+Puppik Penyawo Batin, UPPETI.
+
+- [Substack](https://uppeti.substack.com/)
+- [Medium](https://medium.com/uppeti)
+- [YouTube](https://www.youtube.com/@uppeti)
 
 ## Talks
 n/a
