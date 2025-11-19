@@ -8,6 +8,7 @@ format:
     toc: false
     code-fold: false
     code-tools: true
+    highlight-style: none
 ---
 
 ::: {.header}
