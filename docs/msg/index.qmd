@@ -1,0 +1,93 @@
+---
+title: "msg"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    page-layout: full
+    toc: false
+    code-fold: false
+    code-tools: true
+---
+
+::: {.header}
+# msg
+
+Hi, I'm Linda K. Sg. — a writer and thinker working at the intersection of science, culture, and inner life.
+
+::: {.header-links}
+[My Personal Site](https://lk01sg.github.io/)
+:::
+:::
+
+::: {.message}
+::: {.message-date}
+2025-11-19
+:::
+
+### UPPETI on Medium — subscription!
+
+Dengan meluasnya penggunaan AI, level kepenulisan yang bersumber dari pemikiran kita seakan dipaksa berada pada tingkatan yang lebih tinggi, lebih terarah, dan puncaknya dapat memberikan solusi atau bentuk produk yang (utamanya) bergerak di bidang science dan teknologi.
+
+Tantangan sebenarnya adalah bagaimana kita tetap mengembangkan kedalaman pemikiran dan orisinalitas, bukan sekedar efisiensi teknis atau bahkan serakan informasi yang sifatnya deskriptif.
+
+**Title:** Tantangan Baru dalam Kepenulisan di Tengah Meluasnya Penggunaan AI
+
+**Subtitle:** Ketika Mereka Menulis dengan Sangat Baik, Apa yang Mejadikan Anda Berbeda?
+
+[Read more →](https://medium.com/uppeti/tantangan-baru-dalam-kepenulisan-di-tengah-meluasnya-penggunaan-ai-928815b6cde4)
+
+::: {.message-tag}
+#artificial-intelligence
+:::
+:::
+
+::: {.message}
+::: {.message-date}
+2025-10-16
+:::
+
+### SyntesaMateria
+
+Baru saja menyelesaikan materi presentasi berjudul "Penggunaan JabRef". Materi ini berisi penjelasan dasar penggunaan JabRef yang saya susun berdasarkan pengalaman pribadi.
+
+Saat ini tersedia atas permintaan. More to come soon!
+
+::: {.message-tag}
+#referencemanager
+:::
+:::
+
+::: {.message}
+::: {.message-date}
+2025-10-12
+:::
+
+### UPPETI on Medium
+
+Overthinking tiap habis nonton? Jangan-jangan kamu berbakat jadi kritikus film. Sebab, untuk menjadi kritikus film, berarti kita belajar membaca film dengan kesadaran, memahami konteks, dan melihat lebih dari sekadar cerita di layar. Jadi, apa saja yang sebenarnya dibutuhkan?
+
+**Title:** Overthinking Sehabis Nonton? Mungkin Kamu Berbakat Jadi Kritikus Film
+
+**Subtitle:** Bagaimana mengubah kebiasaan menganalisis film menjadi keterampilan yang terasah
+
+[Read more →](https://medium.com/uppeti/overthinking-sehabis-nonton-mungkin-kamu-berbakat-jadi-kritikus-film-e9e28cc6c5b5)
+
+::: {.message-tag}
+#cinephile
+:::
+:::
+
+::: {.message}
+::: {.message-date}
+2025-08-20
+:::
+
+Some ideas are too special for the feed. No spam, just secrets. 🤫
+
+[Subscribe now →](https://lk01sg.gumroad.com/subscribe)
+
+::: {.message-tag}
+#gumroad
+:::
+:::
