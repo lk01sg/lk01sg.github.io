@@ -1,0 +1,29 @@
+---
+title: "Notes on Phenotypic Screening and System-Level Drug Discovery"
+date: "2025-12-16"
+categories: [methods, theory, systems-biology, pharmacology]
+description: "Reading, synthesis, and open questions on phenotypic approaches, network pharmacology, and systems biology"
+---
+
+**Context:** This essay emerged from ongoing reading and synthesis around phenotypic screening, polypharmacology, and systems-level failure modes in drug discovery. The initial trigger was revisiting historical drug examples alongside recent critiques of screening paradigms.
+
+**Process Notes:**
+
+- Compared classical phenotypic discoveries (aspirin, metformin, sirolimus) with contemporary target-first workflows.
+- Integrated perspectives from systems biology, cancer resistance literature, and network pharmacology.
+- Identified recurring patterns where translational failure reflects model mismatch rather than technical insufficiency.
+
+**Open Questions:**
+
+- How can network-level readouts be standardized without collapsing back into reductionism?
+- What experimental designs best support causal inference in phenotypic–omics integration?
+- Where should industry draw the line between exploratory interrogation and pipeline efficiency?
+
+**Next Steps:**
+
+- Explore concrete case studies combining phenotypic screens with single-cell omics.
+- Examine decision criteria used internally by industry teams when choosing discovery paradigms.
+
+_This entry documents the reasoning process behind a longer conceptual essay, rather than presenting a finalized position._
+
+[link](https://syntesamateria.substack.com/p/phenotypic-screening-as-system-interrogation)
