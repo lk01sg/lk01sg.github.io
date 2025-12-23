@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Blog - lk01sg</title>
+<link>https://lk01sg.github.io/blog/</link>
+<atom:link href="https://lk01sg.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Open documentation of computational biology research in progress by Linda K. Sg.</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Sun, 21 Dec 2025 17:00:00 GMT</lastBuildDate>
+<item>
+  <title>Designing a Research Folder Structure That Scales</title>
+  <dc:creator>Linda K. Sg.</dc:creator>
+  <link>https://lk01sg.github.io/blog/posts/2025-12-22-sf-riset/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><strong>Status:</strong> completed</p>
+<p>I finalized the design and documentation of a modular research folder structure intended for projects that grow over time, not just projects that end with a paper.</p>
+<p>The guiding principle is straightforward:<br>
+separate thinking, data, code, and evidence early and deliberately.</p>
+<section id="structure-overview" class="level2">
+<h2 class="anchored" data-anchor-id="structure-overview">Structure overview</h2>
+<p>The system is organized into three tiers, each mapped to a realistic research workload.</p>
+<section id="basic" class="level3">
+<h3 class="anchored" data-anchor-id="basic">Basic</h3>
+<p>For literature-driven work and small academic projects.</p>
+</section>
+<section id="standard" class="level3">
+<h3 class="anchored" data-anchor-id="standard">Standard</h3>
+<p>For master-level research and publication-oriented analysis.</p>
+</section>
+<section id="advanced" class="level3">
+<h3 class="anchored" data-anchor-id="advanced">Advanced</h3>
+<p>For doctoral and multi-year research with experiment tracking and reproducibility requirements.</p>
+</section>
+</section>
+<section id="design-rationale" class="level2">
+<h2 class="anchored" data-anchor-id="design-rationale">Design rationale</h2>
+<p>The emphasis is not on folder count, but on decision clarity.</p>
+<ul>
+<li>Raw data remains immutable<br>
+</li>
+<li>Manuscripts are modular rather than monolithic<br>
+</li>
+<li>Code is reproducible, not exploratory residue<br>
+</li>
+<li>Experiments leave a traceable record</li>
+</ul>
+<p>A well-designed structure is not administrative overhead.<br>
+It is cognitive infrastructure.</p>
+</section>
+<section id="outcome" class="level2">
+<h2 class="anchored" data-anchor-id="outcome">Outcome</h2>
+<p>This setup reduces friction when switching between projects, revisiting old analyses, preparing manuscripts or proposals, and scaling collaboration or solo work.</p>
+<p>No tooling is enforced.<br>
+LaTeX, JabRef, Git, Python, and R integrate naturally, but nothing is mandatory.</p>
+<p>Outcome: less time managing artifacts, more time spent on actual research.</p>
+</section>
+<section id="next-step" class="level2">
+<h2 class="anchored" data-anchor-id="next-step">Next step</h2>
+<p>Using this structure as the backbone for long-horizon computational biology projects.</p>
+</section>
+<section id="resource" class="level2">
+<h2 class="anchored" data-anchor-id="resource">Resource</h2>
+<p>A documented template version of this folder structure is available separately for those who want a ready-to-use setup.</p>
+<p><a href="https://lk01sg.gumroad.com/l/sf-riset-advanced">link</a></p>
+
+
+<!-- -->
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{k._sg.2025,
+  author = {K. Sg., Linda},
+  title = {Designing a {Research} {Folder} {Structure} {That} {Scales}},
+  date = {2025-12-22},
+  url = {https://lk01sg.github.io/blog/posts/2025-12-22-sf-riset/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-k._sg.2025" class="csl-entry quarto-appendix-citeas">
+K. Sg., Linda. 2025. <span>“Designing a Research Folder Structure That
+Scales.”</span> December 22, 2025. <a href="https://lk01sg.github.io/blog/posts/2025-12-22-sf-riset/">https://lk01sg.github.io/blog/posts/2025-12-22-sf-riset/</a>.
+</div></div></section></div> ]]></description>
+  <category>methods</category>
+  <category>tools</category>
+  <category>meta</category>
+  <guid>https://lk01sg.github.io/blog/posts/2025-12-22-sf-riset/</guid>
+  <pubDate>Sun, 21 Dec 2025 17:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Notes on Phenotypic Screening and System-Level Drug Discovery</title>
+  <dc:creator>Linda K. Sg.</dc:creator>
+  <link>https://lk01sg.github.io/blog/posts/2025-12-16-phenotypic-screening/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><strong>Context:</strong> This essay emerged from ongoing reading and synthesis around phenotypic screening, polypharmacology, and systems-level failure modes in drug discovery. The initial trigger was revisiting historical drug examples alongside recent critiques of screening paradigms.</p>
+<p><strong>Process Notes:</strong></p>
+<ul>
+<li>Compared classical phenotypic discoveries (aspirin, metformin, sirolimus) with contemporary target-first workflows.</li>
+<li>Integrated perspectives from systems biology, cancer resistance literature, and network pharmacology.</li>
+<li>Identified recurring patterns where translational failure reflects model mismatch rather than technical insufficiency.</li>
+</ul>
+<p><strong>Open Questions:</strong></p>
+<ul>
+<li>How can network-level readouts be standardized without collapsing back into reductionism?</li>
+<li>What experimental designs best support causal inference in phenotypic–omics integration?</li>
+<li>Where should industry draw the line between exploratory interrogation and pipeline efficiency?</li>
+</ul>
+<p><strong>Next Steps:</strong></p>
+<ul>
+<li>Explore concrete case studies combining phenotypic screens with single-cell omics.</li>
+<li>Examine decision criteria used internally by industry teams when choosing discovery paradigms.</li>
+</ul>
+<p><em>This entry documents the reasoning process behind a longer conceptual essay, rather than presenting a finalized position.</em></p>
+<p><a href="https://syntesamateria.substack.com/p/phenotypic-screening-as-system-interrogation">link</a></p>
+
+
+<!-- -->
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{k._sg.2025,
+  author = {K. Sg., Linda},
+  title = {Notes on {Phenotypic} {Screening} and {System-Level} {Drug}
+    {Discovery}},
+  date = {2025-12-16},
+  url = {https://lk01sg.github.io/blog/posts/2025-12-16-phenotypic-screening/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-k._sg.2025" class="csl-entry quarto-appendix-citeas">
+K. Sg., Linda. 2025. <span>“Notes on Phenotypic Screening and
+System-Level Drug Discovery.”</span> December 16, 2025. <a href="https://lk01sg.github.io/blog/posts/2025-12-16-phenotypic-screening/">https://lk01sg.github.io/blog/posts/2025-12-16-phenotypic-screening/</a>.
+</div></div></section></div> ]]></description>
+  <category>methods</category>
+  <category>theory</category>
+  <category>systems-biology</category>
+  <category>pharmacology</category>
+  <guid>https://lk01sg.github.io/blog/posts/2025-12-16-phenotypic-screening/</guid>
+  <pubDate>Mon, 15 Dec 2025 17:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Week 1: Network Analysis Pipeline Setup</title>
+  <dc:creator>Linda K. Sg.</dc:creator>
+  <link>https://lk01sg.github.io/blog/posts/2025-11-07-network-analysis/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="this-weeks-focus" class="level2">
+<h2 class="anchored" data-anchor-id="this-weeks-focus">This Week’s Focus</h2>
+<p>Started building the analysis pipeline for immune cell network analysis…</p>
+</section>
+<section id="methods-implemented" class="level2">
+<h2 class="anchored" data-anchor-id="methods-implemented">Methods Implemented</h2>
+<ul>
+<li>Louvain clustering for community detection</li>
+<li>NetworkX for graph construction</li>
+<li>Scanpy preprocessing workflow</li>
+</ul>
+</section>
+<section id="code" class="level2">
+<h2 class="anchored" data-anchor-id="code">Code</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> scanpy <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> sc</span>
+<span id="cb1-2"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> networkx <span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">as</span> nx</span>
+<span id="cb1-3"></span>
+<span id="cb1-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Pipeline setup</span></span>
+<span id="cb1-5">...</span></code></pre></div></div>
+</section>
+<section id="challenges" class="level2">
+<h2 class="anchored" data-anchor-id="challenges">Challenges</h2>
+<p>Memory issues with large adjacency matrices → switched to sparse representation.</p>
+</section>
+<section id="next-steps" class="level2">
+<h2 class="anchored" data-anchor-id="next-steps">Next Steps</h2>
+<ul>
+<li>Validate clustering on test dataset</li>
+<li>Implement visualization</li>
+<li>Write up methods section</li>
+</ul>
+<p><strong>Tags:</strong> Working on immune network topology project, implementing graph analysis methods, debugging memory issues.</p>
+
+
+<!-- -->
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{k._sg.2025,
+  author = {K. Sg., Linda},
+  title = {Week 1: {Network} {Analysis} {Pipeline} {Setup}},
+  date = {2025-11-07},
+  url = {https://lk01sg.github.io/blog/posts/2025-11-07-network-analysis/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-k._sg.2025" class="csl-entry quarto-appendix-citeas">
+K. Sg., Linda. 2025. <span>“Week 1: Network Analysis Pipeline
+Setup.”</span> November 7, 2025. <a href="https://lk01sg.github.io/blog/posts/2025-11-07-network-analysis/">https://lk01sg.github.io/blog/posts/2025-11-07-network-analysis/</a>.
+</div></div></section></div> ]]></description>
+  <category>progress</category>
+  <category>project</category>
+  <category>systems-biology</category>
+  <category>code</category>
+  <guid>https://lk01sg.github.io/blog/posts/2025-11-07-network-analysis/</guid>
+  <pubDate>Thu, 06 Nov 2025 17:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

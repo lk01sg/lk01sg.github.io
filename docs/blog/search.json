@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "posts/2025-12-22-sf-riset/index.html",
+    "href": "posts/2025-12-22-sf-riset/index.html",
+    "title": "Designing a Research Folder Structure That Scales",
+    "section": "",
+    "text": "Status: completed\nI finalized the design and documentation of a modular research folder structure intended for projects that grow over time, not just projects that end with a paper.\nThe guiding principle is straightforward:\nseparate thinking, data, code, and evidence early and deliberately."
+  },
+  {
+    "objectID": "posts/2025-12-22-sf-riset/index.html#structure-overview",
+    "href": "posts/2025-12-22-sf-riset/index.html#structure-overview",
+    "title": "Designing a Research Folder Structure That Scales",
+    "section": "Structure overview",
+    "text": "Structure overview\nThe system is organized into three tiers, each mapped to a realistic research workload.\n\nBasic\nFor literature-driven work and small academic projects.\n\n\nStandard\nFor master-level research and publication-oriented analysis.\n\n\nAdvanced\nFor doctoral and multi-year research with experiment tracking and reproducibility requirements."
+  },
+  {
+    "objectID": "posts/2025-12-22-sf-riset/index.html#design-rationale",
+    "href": "posts/2025-12-22-sf-riset/index.html#design-rationale",
+    "title": "Designing a Research Folder Structure That Scales",
+    "section": "Design rationale",
+    "text": "Design rationale\nThe emphasis is not on folder count, but on decision clarity.\n\nRaw data remains immutable\n\nManuscripts are modular rather than monolithic\n\nCode is reproducible, not exploratory residue\n\nExperiments leave a traceable record\n\nA well-designed structure is not administrative overhead.\nIt is cognitive infrastructure."
+  },
+  {
+    "objectID": "posts/2025-12-22-sf-riset/index.html#outcome",
+    "href": "posts/2025-12-22-sf-riset/index.html#outcome",
+    "title": "Designing a Research Folder Structure That Scales",
+    "section": "Outcome",
+    "text": "Outcome\nThis setup reduces friction when switching between projects, revisiting old analyses, preparing manuscripts or proposals, and scaling collaboration or solo work.\nNo tooling is enforced.\nLaTeX, JabRef, Git, Python, and R integrate naturally, but nothing is mandatory.\nOutcome: less time managing artifacts, more time spent on actual research."
+  },
+  {
+    "objectID": "posts/2025-12-22-sf-riset/index.html#next-step",
+    "href": "posts/2025-12-22-sf-riset/index.html#next-step",
+    "title": "Designing a Research Folder Structure That Scales",
+    "section": "Next step",
+    "text": "Next step\nUsing this structure as the backbone for long-horizon computational biology projects."
+  },
+  {
+    "objectID": "posts/2025-12-22-sf-riset/index.html#resource",
+    "href": "posts/2025-12-22-sf-riset/index.html#resource",
+    "title": "Designing a Research Folder Structure That Scales",
+    "section": "Resource",
+    "text": "Resource\nA documented template version of this folder structure is available separately for those who want a ready-to-use setup.\nlink"
+  },
+  {
+    "objectID": "posts/2025-11-07-network-analysis/index.html",
+    "href": "posts/2025-11-07-network-analysis/index.html",
+    "title": "Week 1: Network Analysis Pipeline Setup",
+    "section": "",
+    "text": "Started building the analysis pipeline for immune cell network analysis…"
+  },
+  {
+    "objectID": "posts/2025-11-07-network-analysis/index.html#this-weeks-focus",
+    "href": "posts/2025-11-07-network-analysis/index.html#this-weeks-focus",
+    "title": "Week 1: Network Analysis Pipeline Setup",
+    "section": "",
+    "text": "Started building the analysis pipeline for immune cell network analysis…"
+  },
+  {
+    "objectID": "posts/2025-11-07-network-analysis/index.html#methods-implemented",
+    "href": "posts/2025-11-07-network-analysis/index.html#methods-implemented",
+    "title": "Week 1: Network Analysis Pipeline Setup",
+    "section": "Methods Implemented",
+    "text": "Methods Implemented\n\nLouvain clustering for community detection\nNetworkX for graph construction\nScanpy preprocessing workflow"
+  },
+  {
+    "objectID": "posts/2025-11-07-network-analysis/index.html#code",
+    "href": "posts/2025-11-07-network-analysis/index.html#code",
+    "title": "Week 1: Network Analysis Pipeline Setup",
+    "section": "Code",
+    "text": "Code\nimport scanpy as sc\nimport networkx as nx\n\n# Pipeline setup\n..."
+  },
+  {
+    "objectID": "posts/2025-11-07-network-analysis/index.html#challenges",
+    "href": "posts/2025-11-07-network-analysis/index.html#challenges",
+    "title": "Week 1: Network Analysis Pipeline Setup",
+    "section": "Challenges",
+    "text": "Challenges\nMemory issues with large adjacency matrices → switched to sparse representation."
+  },
+  {
+    "objectID": "posts/2025-11-07-network-analysis/index.html#next-steps",
+    "href": "posts/2025-11-07-network-analysis/index.html#next-steps",
+    "title": "Week 1: Network Analysis Pipeline Setup",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nValidate clustering on test dataset\nImplement visualization\nWrite up methods section\n\nTags: Working on immune network topology project, implementing graph analysis methods, debugging memory issues."
+  },
+  {
+    "objectID": "categories.html",
+    "href": "categories.html",
+    "title": "Categories",
+    "section": "",
+    "text": "This blog uses a simple, practical tagging system to organize research documentation."
+  },
+  {
+    "objectID": "categories.html#research-process",
+    "href": "categories.html#research-process",
+    "title": "Categories",
+    "section": "Research Process",
+    "text": "Research Process\nTags for documenting the research workflow and progress.\nprogress\nUpdates, project milestones, and overall research progress. Use this for regular check-ins and status reports.\nproject\nProject-specific work and documentation. Use when focusing on a particular research project or initiative.\nmethods\nMethod implementations, technique explanations, and procedural documentation. Use when describing HOW you do something.\ndebugging\nProblem-solving stories, error resolution, and troubleshooting documentation. Use when documenting challenges and their solutions."
+  },
+  {
+    "objectID": "categories.html#knowledge-building",
+    "href": "categories.html#knowledge-building",
+    "title": "Categories",
+    "section": "Knowledge Building",
+    "text": "Knowledge Building\nTags for learning, synthesis, and theoretical exploration.\nliterature\nPaper summaries, literature reviews, and reading notes. Use when engaging with published research.\nlearning\nNew concepts, tutorials, and skill development. Use when documenting learning process or creating educational content.\ntheory\nTheoretical frameworks, conceptual models, and foundational concepts. Use for deeper conceptual explorations."
+  },
+  {
+    "objectID": "categories.html#technical",
+    "href": "categories.html#technical",
+    "title": "Categories",
+    "section": "Technical",
+    "text": "Technical\nTags for computational and technical content.\ncode\nCode examples, scripts, and programming solutions. Use when sharing executable code or implementation details.\ndata-analysis\nData analysis workflows, statistical methods, and analytical approaches. Use for analysis-focused content.\ntools\nSoftware reviews, package tutorials, and tool comparisons. Use when discussing research tools and infrastructure."
+  },
+  {
+    "objectID": "categories.html#research-domains",
+    "href": "categories.html#research-domains",
+    "title": "Categories",
+    "section": "Research Domains",
+    "text": "Research Domains\nTags for specific scientific areas and topics.\nsystems-biology\nNetwork analysis, systems modeling, pathway analysis, and integrative approaches. Use for systems-level research.\nimmunology\nImmune system research, immunological mechanisms, and immune-related projects. Use for immunology-focused work.\npharmacology\nDrug discovery, drug-target interactions, and pharmacological research. Use for drug-related content.\npk-pd\nPharmacokinetics, pharmacodynamics, PKPD modeling, and dose-response analysis.\ndrug-discovery\nDrug design, target identification, lead optimization, and discovery pipelines.\nbioai\nMachine learning for biology, protein structure prediction, and AI applications in life sciences.\ncomputational\nGeneral computational biology, bioinformatics, and computational methods not specific to above domains."
+  },
+  {
+    "objectID": "categories.html#meta",
+    "href": "categories.html#meta",
+    "title": "Categories",
+    "section": "Meta",
+    "text": "Meta\nTags for blog-related and personal content.\nmeta\nPosts about the blog itself, open science practices, and knowledge management approaches.\nreflection\nPersonal insights, research reflections, and philosophical musings about science and research.\ncareer\nPhD journey, academic development, professional growth, and career-related content."
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\nDescription\n\n\n\n\n\n\n\n\nDec 22, 2025\n\n\nDesigning a Research Folder Structure That Scales\n\n\nmethods, tools, meta\n\n\nA modular folder architecture for research projects, designed to support reproducibility, cognitive clarity, and long-horizon work.\n\n\n\n\n\n\nDec 16, 2025\n\n\nNotes on Phenotypic Screening and System-Level Drug Discovery\n\n\nmethods, theory, systems-biology, pharmacology\n\n\nReading, synthesis, and open questions on phenotypic approaches, network pharmacology, and systems biology\n\n\n\n\n\n\nNov 7, 2025\n\n\nWeek 1: Network Analysis Pipeline Setup\n\n\nprogress, project, systems-biology, code\n\n\nSetting up the computational pipeline for immune network analysis\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Log",
+    "section": "",
+    "text": "Open documentation of computational biology research in progress by Linda K. Sg."
+  },
+  {
+    "objectID": "index.html#content-types",
+    "href": "index.html#content-types",
+    "title": "Research Log",
+    "section": "Content Types",
+    "text": "Content Types\nResearch Process: progress project methods debugging\nKnowledge Building: literature learning theory\nTechnical: code data-analysis tools\nDomains: systems-biology immunology pharmacology computational\nMeta: reflection career meta"
+  },
+  {
+    "objectID": "index.html#scope",
+    "href": "index.html#scope",
+    "title": "Research Log",
+    "section": "Scope",
+    "text": "Scope\nThis blog sits within my broader knowledge ecosystem:\n\n\n\nPlatform\nFocus\nContent Type\n\n\n\n\nResearch Log (here)\nActive research process\nWorking notes, technical docs\n\n\nProjects\nCompleted work\nPortfolio showcase\n\n\nMedium\nScience communication\nPolished articles\n\n\nMastodon\nCommunity engagement\nQuick updates, discussions\n\n\n\n\nTopics: Systems biology · Network pharmacology · Immunology · PK/PD modeling · Drug discovery · BioAI · Protein structure\nStack: Quarto · Python · R · Git\nLicense: CC-BY (text) · MIT (code)\n\nSubscribe: RSS · Mastodon"
+  },
+  {
+    "objectID": "posts/2025-12-16-phenotypic-screening/index.html",
+    "href": "posts/2025-12-16-phenotypic-screening/index.html",
+    "title": "Notes on Phenotypic Screening and System-Level Drug Discovery",
+    "section": "",
+    "text": "Context: This essay emerged from ongoing reading and synthesis around phenotypic screening, polypharmacology, and systems-level failure modes in drug discovery. The initial trigger was revisiting historical drug examples alongside recent critiques of screening paradigms.\nProcess Notes:\n\nCompared classical phenotypic discoveries (aspirin, metformin, sirolimus) with contemporary target-first workflows.\nIntegrated perspectives from systems biology, cancer resistance literature, and network pharmacology.\nIdentified recurring patterns where translational failure reflects model mismatch rather than technical insufficiency.\n\nOpen Questions:\n\nHow can network-level readouts be standardized without collapsing back into reductionism?\nWhat experimental designs best support causal inference in phenotypic–omics integration?\nWhere should industry draw the line between exploratory interrogation and pipeline efficiency?\n\nNext Steps:\n\nExplore concrete case studies combining phenotypic screens with single-cell omics.\nExamine decision criteria used internally by industry teams when choosing discovery paradigms.\n\nThis entry documents the reasoning process behind a longer conceptual essay, rather than presenting a finalized position.\nlink\n\n\n\n\n\nCitationBibTeX citation:@online{k._sg.2025,\n  author = {K. Sg., Linda},\n  title = {Notes on {Phenotypic} {Screening} and {System-Level} {Drug}\n    {Discovery}},\n  date = {2025-12-16},\n  url = {https://lk01sg.github.io/blog/posts/2025-12-16-phenotypic-screening/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nK. Sg., Linda. 2025. “Notes on Phenotypic Screening and\nSystem-Level Drug Discovery.” December 16, 2025. https://lk01sg.github.io/blog/posts/2025-12-16-phenotypic-screening/."
+  }
+]
