@@ -1,0 +1,60 @@
+---
+title: "Designing a Research Folder Structure That Scales"
+date: "2025-12-22"
+categories: [methods, tools, meta]
+description: "A modular folder architecture for research projects, designed to support reproducibility, cognitive clarity, and long-horizon work."
+---
+
+**Status:** completed
+
+I finalized the design and documentation of a modular research folder structure intended for projects that grow over time, not just projects that end with a paper.
+
+The guiding principle is straightforward:  
+separate thinking, data, code, and evidence early and deliberately.
+
+## Structure overview
+
+The system is organized into three tiers, each mapped to a realistic research workload.
+
+### Basic
+
+For literature-driven work and small academic projects.
+
+### Standard
+
+For master-level research and publication-oriented analysis.
+
+### Advanced
+
+For doctoral and multi-year research with experiment tracking and reproducibility requirements.
+
+## Design rationale
+
+The emphasis is not on folder count, but on decision clarity.
+
+- Raw data remains immutable  
+- Manuscripts are modular rather than monolithic  
+- Code is reproducible, not exploratory residue  
+- Experiments leave a traceable record
+
+A well-designed structure is not administrative overhead.  
+It is cognitive infrastructure.
+
+## Outcome
+
+This setup reduces friction when switching between projects, revisiting old analyses, preparing manuscripts or proposals, and scaling collaboration or solo work.
+
+No tooling is enforced.  
+LaTeX, JabRef, Git, Python, and R integrate naturally, but nothing is mandatory.
+
+Outcome: less time managing artifacts, more time spent on actual research.
+
+## Next step
+
+Using this structure as the backbone for long-horizon computational biology projects.
+
+## Resource
+
+A documented template version of this folder structure is available separately for those who want a ready-to-use setup.
+
+[link](https://lk01sg.gumroad.com/l/sf-riset-advanced)
