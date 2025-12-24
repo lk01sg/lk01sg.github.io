@@ -5,25 +5,34 @@ categories: [methods, theory, systems-biology, pharmacology]
 description: "Reading, synthesis, and open questions on phenotypic approaches, network pharmacology, and systems biology"
 ---
 
-**Context:** This essay emerged from ongoing reading and synthesis around phenotypic screening, polypharmacology, and systems-level failure modes in drug discovery. The initial trigger was revisiting historical drug examples alongside recent critiques of screening paradigms.
+**Context:** This entry emerged from ongoing reading and synthesis around phenotypic screening, polypharmacology, and system-level failure modes in drug discovery. The immediate trigger was revisiting historical drug examples alongside recent critiques of contemporary screening paradigms, particularly concerns that many failures reflect model mismatch rather than purely technical shortcomings (Vincent & Gianni, 2025; Lowe, 2025).
 
 **Process Notes:**
 
-- Compared classical phenotypic discoveries (aspirin, metformin, sirolimus) with contemporary target-first workflows.
+- Compared classical phenotypic discoveries (e.g., aspirin, metformin, sirolimus) with contemporary target-first workflows
 - Integrated perspectives from systems biology, cancer resistance literature, and network pharmacology.
-- Identified recurring patterns where translational failure reflects model mismatch rather than technical insufficiency.
+- Noted recurring patterns where translational failure appears rooted in abstraction choices and assay framing, rather than insufficient molecular resolution alone.
 
 **Open Questions:**
 
-- How can network-level readouts be standardized without collapsing back into reductionism?
-- What experimental designs best support causal inference in phenotypic–omics integration?
-- Where should industry draw the line between exploratory interrogation and pipeline efficiency?
+- How can network-level or phenotypic readouts be standardized without collapsing back into reductionist proxies?
+- What experimental designs best support causal inference when integrating phenotypic screens with multi-omics data?
+- Where should industry draw the boundary between exploratory system interrogation and pipeline efficiency pressures?
 
 **Next Steps:**
 
-- Explore concrete case studies combining phenotypic screens with single-cell omics.
-- Examine decision criteria used internally by industry teams when choosing discovery paradigms.
+- Explore concrete case studies combining phenotypic screening with single-cell or spatial omics.
+- Examine internal decision criteria used by industry teams when selecting between target-first and phenotype-first discovery paradigms.
 
-_This entry documents the reasoning process behind a longer conceptual essay, rather than presenting a finalized position._
+_This entry documents an evolving reasoning process rather than a finalized position, serving as groundwork for potential future project development._
 
-[link](https://syntesamateria.substack.com/p/phenotypic-screening-as-system-interrogation)
+**Related Essay:**  
+[Phenotypic Screening as System Interrogation](https://syntesamateria.substack.com/p/phenotypic-screening-as-system-interrogation)
+
+---
+
+### References / Reading Trail
+
+1. Vincent, F., & Gianni, D. (2025). *The limitations of small molecule and genetic screening in phenotypic drug discovery.* **Cell Chemical Biology**, 32(11), 1310–1320. https://doi.org/10.1016/j.chembiol.2025.10.008
+
+2. Lowe, D. (2025, Nov 18). *Thinking about running a phenotypic assay?* **In The Pipeline**, Science/AAAS. https://www.science.org/content/blog-post/thinking-about-running-phenotypic-assay

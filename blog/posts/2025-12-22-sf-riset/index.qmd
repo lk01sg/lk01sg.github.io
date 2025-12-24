@@ -5,56 +5,54 @@ categories: [methods, tools, meta]
 description: "A modular folder architecture for research projects, designed to support reproducibility, cognitive clarity, and long-horizon work."
 ---
 
-**Status:** completed
+**Status:** Completed
 
-I finalized the design and documentation of a modular research folder structure intended for projects that grow over time, not just projects that end with a paper.
+**Context:**  
+This entry documents the design and finalization of a modular research folder structure intended for projects that evolve over time, rather than projects optimized solely to terminate in a single paper. The motivation was to reduce long-term cognitive overhead and improve traceability across heterogeneous research activities.
 
-The guiding principle is straightforward:  
-separate thinking, data, code, and evidence early and deliberately.
+The guiding principle is deliberately simple:  
+**separate thinking, data, code, and evidence early and explicitly.**
 
-## Structure overview
+## Structure Overview
 
-The system is organized into three tiers, each mapped to a realistic research workload.
+The system is organized into three tiers, each mapped to a realistic research workload rather than an abstract ideal.
 
-### Basic
+### Basic  
+For literature-driven work and small academic or exploratory projects.
 
-For literature-driven work and small academic projects.
-
-### Standard
-
+### Standard  
 For master-level research and publication-oriented analysis.
 
-### Advanced
+### Advanced  
+For doctoral and multi-year research with experiment tracking, versioning, and reproducibility requirements.
 
-For doctoral and multi-year research with experiment tracking and reproducibility requirements.
+## Design Rationale
 
-## Design rationale
-
-The emphasis is not on folder count, but on decision clarity.
+The emphasis is not on folder count, but on **decision clarity**.
 
 - Raw data remains immutable  
 - Manuscripts are modular rather than monolithic  
-- Code is reproducible, not exploratory residue  
-- Experiments leave a traceable record
+- Code is reproducible rather than exploratory residue  
+- Experiments leave a traceable and auditable record  
 
 A well-designed structure is not administrative overhead.  
-It is cognitive infrastructure.
+It functions as **cognitive infrastructure**.
 
 ## Outcome
 
 This setup reduces friction when switching between projects, revisiting old analyses, preparing manuscripts or proposals, and scaling collaboration or solo work.
 
-No tooling is enforced.  
-LaTeX, JabRef, Git, Python, and R integrate naturally, but nothing is mandatory.
+No specific tooling is enforced.  
+LaTeX, JabRef, Git, Python, and R integrate naturally, but none are mandatory.
 
-Outcome: less time managing artifacts, more time spent on actual research.
+**Net effect:** less time managing artifacts, more time allocated to actual research.
 
-## Next step
+## Next Steps
 
-Using this structure as the backbone for long-horizon computational biology projects.
+Use this structure as the backbone for long-horizon computational biology projects, particularly those involving iterative modeling, multi-modal data, and evolving hypotheses.
 
-## Resource
+## Related Documentation
 
-A documented template version of this folder structure is available separately for those who want a ready-to-use setup.
+A longer, practitioner-oriented explanation and a ready-to-use template version of this folder structure are documented separately:
 
-[link](https://lk01sg.gumroad.com/l/sf-riset-advanced)
+[https://lk01sg.gumroad.com/l/sf-riset-advanced](https://lk01sg.gumroad.com/l/sf-riset-advanced)
