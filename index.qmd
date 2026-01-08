@@ -18,12 +18,12 @@ Alongside formal roles, I develop independent research artifacts such as essays,
 
 I am especially interested in long-horizon research questions and collaborative environments that value biological realism, conceptual clarity, and sustained inquiry. I welcome thoughtful exchange with researchers and organizations working on problems in systems biology, computational biology, and science-driven decision support.
 
-## Portfolio
+## Overview
 
 - [Curriculum Vitae](cv.qmd) — *full CV available upon request*
 - [Publications](publications.qmd)
 - [Certifications](certifications.qmd)
-- [Projects](/projects/)
+- [Portfolio](/portfolio/)
 
 ## 📚 On Writing
 
