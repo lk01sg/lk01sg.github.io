@@ -31,5 +31,8 @@
   },
   "blog/posts/2025-11-07-network-analysis/index.qmd": {
     "index.html": "db8a2601"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "2c03f7eb"
   }
 }

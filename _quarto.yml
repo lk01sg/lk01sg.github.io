@@ -13,8 +13,8 @@ website:
         href: index.qmd
       - text: Publications
         href: publications.qmd
-      - text: Projects
-        href: /projects/
+      - text: Portfolio
+        href: /portfolio/
       - text: Media
         href: media.qmd
       - text: Blog
