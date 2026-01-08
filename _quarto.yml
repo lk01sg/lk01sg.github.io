@@ -14,7 +14,7 @@ website:
       - text: Publications
         href: publications.qmd
       - text: Portfolio
-        href: /portfolio/
+        href: portfolio.qmd
       - text: Media
         href: media.qmd
       - text: Blog
