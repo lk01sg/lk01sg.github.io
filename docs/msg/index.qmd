@@ -151,43 +151,63 @@ Hi, I'm Linda K. Sg. — a writer and thinker working at the intersection of sci
 
 ::: {.message}
 ::: {.message-date}
-2025-12-23
+2026-03-25
 :::
 
-### SyntesaMateria on Substack
+### UPPETI on Medium — subscription!
 
-Most research advice focuses on methods, models, or tools. Very little attention is given to how research artifacts are actually organized over time.
+Film pendek minimalis ini, meski hanya berdurasi 14 menit, tetap sanggup mengusik bagian dari diri kita yang berasal dari masa-lalu. Dialog digantikan oleh koreografi, suara, dan visual. Seolah sedang memutar ulang rekaman memori masa kecil, di mana saat itu kita memiliki keterbatasan daya tangkap, khususnya untuk memahami konteks di luar dirinya.
 
-**Title:** The Two Hours I Spent Looking for My Own Data
+**Title:** Boneka, Dalang, dan Diri yang Tersembunyi
 
-**Subtitle:** And the folder structure I built to make sure it never happens again
+**Subtitle:** Discipline (2026), Film Pendek Miu Miu Women’s Tales
 
-[Read more →](https://syntesamateria.substack.com/p/the-two-hours-i-spent-looking-for)
+[Read more →](https://medium.com/uppeti/boneka-dalang-dan-diri-yang-tersembunyi-942e9ebcc36d)
 
 ::: {.message-tag}
-#data-management
+#shorfilm
 :::
 :::
 
 ::: {.message}
 ::: {.message-date}
-2025-12-16
+2026-02-18
 :::
 
-### SyntesaMateria on Substack
+### UPPETI on Substack
 
-Phenotypic screening is neither a relic nor a revolution. It is a tool with specific conditions for utility, conditions most programs ignore.
+> What Warhol taught was that there is no way of telling the difference [between art and non-art] merely by looking. The eye, so prized an aesthetic organ when it was felt that the difference between art and non-art was visible, was philosophically of no use whatever when the differences proved instead to be invisible. — Arthur Danto
 
-Most failures stem from category errors, not technical ones. Knowing which question is actually being asked determines whether a program advances discovery, or merely generates expensive noise.
+**Title:** Mereka Ulang Konsep Seni Melalui Karya Andy Warhol
 
-**Title:** Phenotypic Screening as System Interrogation
+**Subtitle:** Seni Era Industrial dan Komersialisasi Massal
 
-**Subtitle:** On Asking Biological Questions at the Right Scale
-
-[Read more →](https://syntesamateria.substack.com/p/phenotypic-screening-as-system-interrogation)
+[Read more →](https://uppeti.substack.com/p/mereka-ulang-konsep-seni-melalui-8d1)
 
 ::: {.message-tag}
-#drug-discovery
+#art
+:::
+:::
+
+::: {.message}
+::: {.message-date}
+2026-02-04
+:::
+
+### UPPETI on Medium — subscription!
+
+Podcast sifatnya mengalir, sugestif, emosional. Kita cenderung menerima apa yang disampaikan sebagai satu paket utuh. Jarang berhenti. Jarang ada bantahan. Jarang diperiksa.
+
+Sedangkan membaca terasa melelahkan. Dan justru karena hal itulah mengapa ia menjadi penting.
+
+**Title:** Bisakah Podcast Menggantikan Buku?
+
+**Subtitle:** Ilusi Pengetahuan di Era Podcast
+
+[Read more →](https://medium.com/uppeti/bisakah-podcast-menggantikan-buku-dd35841a99f3)
+
+::: {.message-tag}
+#membaca
 :::
 :::
 
@@ -212,28 +232,6 @@ Yang dipelajari bukan hanya soal fashion atau beauty routine, tapi tentang bagai
 
 ::: {.message-tag}
 #resensi
-:::
-:::
-
-::: {.message}
-::: {.message-date}
-2025-11-19
-:::
-
-### UPPETI on Medium — subscription!
-
-Dengan meluasnya penggunaan AI, level kepenulisan yang bersumber dari pemikiran kita seakan dipaksa berada pada tingkatan yang lebih tinggi, lebih terarah, dan puncaknya dapat memberikan solusi atau bentuk produk yang (utamanya) bergerak di bidang science dan teknologi.
-
-Tantangan sebenarnya adalah bagaimana kita tetap mengembangkan kedalaman pemikiran dan orisinalitas, bukan sekedar efisiensi teknis atau bahkan serakan informasi yang sifatnya deskriptif.
-
-**Title:** Tantangan Baru dalam Kepenulisan di Tengah Meluasnya Penggunaan AI
-
-**Subtitle:** Ketika Mereka Menulis dengan Sangat Baik, Apa yang Mejadikan Anda Berbeda?
-
-[Read more →](https://medium.com/uppeti/tantangan-baru-dalam-kepenulisan-di-tengah-meluasnya-penggunaan-ai-928815b6cde4)
-
-::: {.message-tag}
-#artificial-intelligence
 :::
 :::
 
