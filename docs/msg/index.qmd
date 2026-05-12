@@ -151,6 +151,26 @@ Hi, I'm Linda K. Sg. — a writer and thinker working at the intersection of sci
 
 ::: {.message}
 ::: {.message-date}
+2026-05-12
+:::
+
+### Syntesa Journal on Substack | part of SyntesaMateria
+
+FDA Modernization Act 2.0 memberikan legitimasi regulatif bagi organ-on-chip, organoid, dan model AI/ML dalam uji nonklinis. Uji hewan tetap valid, namun bukan lagi satu-satunya jalur yang diakui. Dalam praktiknya, FDA masih meminta data dari spesies rodent dan non-rodent.
+
+**Title:** Dari Praklinis ke Nonklinis
+
+**Subtitle:** FDA Modernization Act 2.0, pergeseran paradigma dalam regulasi uji obat
+
+[Read more →](https://syntesajournal.substack.com/p/dari-praklinis-ke-nonklinis)
+
+::: {.message-tag}
+#NAMs
+:::
+:::
+
+::: {.message}
+::: {.message-date}
 2026-03-25
 :::
 
