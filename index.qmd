@@ -4,11 +4,7 @@ title: ""
 
 ## About
 
-Hi, I’m Linda K. Sg.
-
-<img src="images/profile-picture.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-
-I am an independent researcher working at the intersection of life sciences, data, and systems thinking, with a focus on how biological complexity can be translated into sound scientific and strategic judgment.
+Hi, I’m Linda K. Sg., an independent researcher working at the intersection of life sciences, data, and systems thinking, with a focus on how biological complexity can be translated into sound scientific and strategic judgment.
 
 I hold a master’s degree in Pharmacology and Toxicology from the Bandung Institute of Technology (ITB). My thesis in immunology shaped a systems-level perspective on biological networks, genetic variation, and mechanistic modeling. This approach continues to inform my work across systems immunology, systems biology, PK/PD modeling, network pharmacology, and computational drug design, particularly in contexts where reductionist methods fall short.
 
