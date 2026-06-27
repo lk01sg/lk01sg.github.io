@@ -147,6 +147,55 @@ Hi, I'm Linda K. Sg. — a writer and thinker working at the intersection of sci
 ::: {.header-links}
 [My Personal Site](https://lk01sg.github.io/)
 :::
+
+```{=html}
+<hr style="border:none; border-top:1px solid #dee2e6; margin:14px 0;">
+<p style="font-size:0.85em; color:#6c757d; margin:0;">
+Support: <a href="https://buymeacoffee.com/lk01sg">☕ Buy Me a Coffee</a>, <a href="https://sociabuzz.com/lk01sg/support">🍵 SociaBuzz</a>
+</p>
+```
+:::
+
+::: {.message}
+::: {.message-date}
+2026-06-23
+:::
+
+### Syntesa Letters on Substack
+
+Phenotypic screening is neither a relic nor a revolution. It is a tool with specific conditions for utility, conditions most programs ignore.
+
+Most failures stem from category errors, not technical ones. Knowing which question is actually being asked determines whether a program advances discovery, or merely generates expensive noise.
+
+**Title:** When Biology Answers Questions We Haven’t Asked
+
+**Subtitle:** Why phenotypic screening still matters in drug discovery
+
+[Read more →](https://syntesaletters.substack.com/p/when-biology-answers-questions-we)
+
+::: {.message-tag}
+#phenotypicscreening
+:::
+:::
+
+::: {.message}
+::: {.message-date}
+2026-05-20
+:::
+
+### UPPETI on Medium — subscription!
+
+Endless Cookie (2025) merupakan film dokumenter animasi yang dibuat sedemikian rupa seperti halnya biskuit🍪 yang tidak pernah habis, menggambarkan kehangatan sebuah keluarga besar asal Kanada, tepatnya dari komunitas Shamattawa First Nation di Manitoba Utara.
+
+**Title:** Biskuit yang Tidak Pernah Habis
+
+**Subtitle:** Endless Cookie (2025), kehidupan dua saudara dalam komunitas terpencil di Kanada
+
+[Read more →](https://medium.com/uppeti/biskuit-yang-tidak-pernah-habis-9bf7de76a2fa)
+
+::: {.message-tag}
+#resensi
+:::
 :::
 
 ::: {.message}
@@ -242,46 +291,6 @@ Sedangkan membaca terasa melelahkan. Dan justru karena hal itulah mengapa ia men
 
 ::: {.message-tag}
 #membaca
-:::
-:::
-
-::: {.message}
-::: {.message-date}
-2025-12-04
-:::
-
-### UPPETI on Medium — subscription!
-
-_How To Be Parisian Wherever You Are_ merupakan salah satu buku yang sudah lama menarik perhatian saya. Selain mencari referensi buku yang santai dan menghibur, alasan utama membeli buku ini adalah kehadiran Caroline de Maigret, seorang model Chanel asal Prancis, yang juga salah satu dari empat penulis buku ini (bersama Anne Berest, Audrey Diwan, dan Sophie Mas).
-
-Buku ini membawa setiap indra kita untuk ikut pergi dan merasakan pengalaman menjadi seorang Parisian.
-
-Yang dipelajari bukan hanya soal fashion atau beauty routine, tapi tentang bagaimana menjalani hidup dengan lebih mindful, lebih menghargai diri sendiri, dan tidak terlalu keras pada standar kesempurnaan yang seringkali membebani.
-
-**Title:** Panduan Cara Bergaya Parisian
-
-**Subtitle:** Review “How to Be Parisian Wherever You Are” oleh Caroline de Maigret: Kecantikan, Fashion, dan Filosofi Hidup
-
-[Read more →](https://medium.com/uppeti/panduan-cara-bergaya-parisian-f07f92f53b2e)
-
-::: {.message-tag}
-#resensi
-:::
-:::
-
-::: {.message}
-::: {.message-date}
-2025-10-16
-:::
-
-### SyntesaMateria
-
-Baru saja menyelesaikan materi presentasi berjudul "Penggunaan JabRef". Materi ini berisi penjelasan dasar penggunaan JabRef yang saya susun berdasarkan pengalaman pribadi.
-
-Saat ini tersedia atas permintaan. More to come soon!
-
-::: {.message-tag}
-#referencemanager
 :::
 :::
 
