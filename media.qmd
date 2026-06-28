@@ -3,7 +3,7 @@ title: "Media"
 ---
 
 ## SyntesaMateria
-From Life Sciences to Drug Innovation, SyntesaMateria.
+Independent publication on systems pharmacology, biological complexity, and scientific sensemaking.
 
 - Substack - [Syntesa Letters](https://syntesaletters.substack.com)
 - [Medium](https://medium.com/syntesamateria)
