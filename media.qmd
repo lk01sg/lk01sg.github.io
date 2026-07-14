@@ -3,7 +3,17 @@ title: "Media"
 ---
 
 ## SyntesaMateria
-Independent publication on systems pharmacology, biological complexity, and scientific sensemaking.
+"Understanding how biology becomes medicine."
+
+SyntesaMateria is an independent publication dedicated to understanding how biological knowledge becomes therapeutic decisions.
+
+Modern biomedical research increasingly depends on the integration of experimental biology, computational models, quantitative reasoning, and clinical evidence. SyntesaMateria explores this intersection—not simply to report scientific advances, but to understand how knowledge is created, evaluated, and translated into medicine.
+
+The publication covers systems biology, pharmacology, model-informed drug development, quantitative medicine, artificial intelligence, computational methods, and research methodology. Rather than treating these as isolated disciplines, SyntesaMateria approaches them as complementary perspectives within a broader scientific ecosystem.
+
+Alongside research synthesis, the publication also documents the practice of research itself: learning, uncertainty, methodological choices, and the continuous refinement of ideas. This reflects a belief that scientific progress depends as much on careful thinking as on technical innovation.
+
+SyntesaMateria is written for researchers, students, clinicians, and curious readers who value clarity, precision, and thoughtful inquiry over speed and noise.
 
 - Substack - [Syntesa Letters](https://syntesaletters.substack.com)
 - [Medium](https://medium.com/syntesamateria)
@@ -12,7 +22,7 @@ Independent publication on systems pharmacology, biological complexity, and scie
 Social: [X](https://x.com/syntesamateria), [Bluesky](https://bsky.app/profile/syntesamateria.bsky.social), [Threads](https://threads.net/@syntesamateria), [Instagram](https://www.instagram.com/syntesamateria/)
 
 ## UPPETI
-Puppik Penyawo Batin, UPPETI.
+Puppik Penyawo Batin.
 
 - [Substack](https://uppeti.substack.com/)
 - [Medium](https://medium.com/uppeti)
